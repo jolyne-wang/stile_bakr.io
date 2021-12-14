@@ -1,0 +1,1001 @@
+,id,age,dietary considerations,state,user agent
+940,817,108,"['vegetarian', 'lactose intolerant']",Queensland,Mozilla/5.0 (Android 1.0; Mobile; rv:21.0) Gecko/21.0 Firefox/21.0
+568,525,64,"['vegan', 'vegetarian']",Northern Territory,Mozilla/5.0 (Android 1.1; Mobile; rv:7.0) Gecko/7.0 Firefox/7.0
+697,762,79,['vegan'],South Australia,Mozilla/5.0 (Android 1.5; Mobile; rv:11.0) Gecko/11.0 Firefox/11.0
+949,484,109,['nut allergy'],Australian Capital Territory,Mozilla/5.0 (Android 1.6; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0
+285,648,30,[],Northern Territory,Mozilla/5.0 (Android 2.0.1; Mobile; rv:67.0) Gecko/67.0 Firefox/67.0
+779,909,89,[],South Australia,Mozilla/5.0 (Android 2.1; Mobile; rv:63.0) Gecko/63.0 Firefox/63.0
+31,36,5,['lactose intolerant'],Victoria,Mozilla/5.0 (Android 2.3.1; Mobile; rv:27.0) Gecko/27.0 Firefox/27.0
+16,70,3,['nut allergy'],South Australia,Mozilla/5.0 (Android 2.3.1; Mobile; rv:42.0) Gecko/42.0 Firefox/42.0
+283,321,30,['vegetarian'],New South Wales,Mozilla/5.0 (Android 2.3.1; Mobile; rv:57.0) Gecko/57.0 Firefox/57.0
+923,598,106,['nut allergy'],Western Australia,Mozilla/5.0 (Android 2.3.4; Mobile; rv:35.0) Gecko/35.0 Firefox/35.0
+965,289,112,['none'],Queensland,Mozilla/5.0 (Android 2.3.4; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0
+249,981,27,"['lactose intolerant', 'none']",Northern Territory,Mozilla/5.0 (Android 3.1; Mobile; rv:21.0) Gecko/21.0 Firefox/21.0
+126,254,14,[],Western Australia,Mozilla/5.0 (Android 3.2.4; Mobile; rv:35.0) Gecko/35.0 Firefox/35.0
+783,123,90,[],Northern Territory,Mozilla/5.0 (Android 3.2.5; Mobile; rv:14.0) Gecko/14.0 Firefox/14.0
+721,738,82,"['celiac', 'nut allergy']",Tasmania,Mozilla/5.0 (Android 3.2.6; Mobile; rv:43.0) Gecko/43.0 Firefox/43.0
+12,512,2,"['vegetarian', 'vegan']",Victoria,Mozilla/5.0 (Android 3.2.6; Mobile; rv:54.0) Gecko/54.0 Firefox/54.0
+974,873,113,['none'],Western Australia,Mozilla/5.0 (Android 4.0; Mobile; rv:58.0) Gecko/58.0 Firefox/58.0
+375,326,43,"['none', 'nut allergy']",Western Australia,Mozilla/5.0 (Android 4.0.1; Mobile; rv:20.0) Gecko/20.0 Firefox/20.0
+612,766,69,['vegetarian'],Western Australia,Mozilla/5.0 (Android 4.0.2; Mobile; rv:14.0) Gecko/14.0 Firefox/14.0
+551,342,62,[],Australian Capital Territory,Mozilla/5.0 (Android 4.0.3; Mobile; rv:50.0) Gecko/50.0 Firefox/50.0
+115,58,13,['vegetarian'],Queensland,Mozilla/5.0 (Android 4.1.2; Mobile; rv:13.0) Gecko/13.0 Firefox/13.0
+205,816,23,"['celiac', 'celiac']",Northern Territory,Mozilla/5.0 (Android 4.1.2; Mobile; rv:42.0) Gecko/42.0 Firefox/42.0
+234,604,26,[],Queensland,Mozilla/5.0 (Android 4.2.2; Mobile; rv:53.0) Gecko/53.0 Firefox/53.0
+497,979,55,['lactose intolerant'],Northern Territory,Mozilla/5.0 (Android 4.3; Mobile; rv:13.0) Gecko/13.0 Firefox/13.0
+208,361,24,"['lactose intolerant', 'lactose intolerant']",Western Australia,Mozilla/5.0 (Android 4.3.1; Mobile; rv:5.0) Gecko/5.0 Firefox/5.0
+98,378,11,"['vegetarian', 'vegan']",Northern Territory,Mozilla/5.0 (Android 4.4.2; Mobile; rv:10.0) Gecko/10.0 Firefox/10.0
+821,913,95,"['vegetarian', 'nut allergy']",Tasmania,Mozilla/5.0 (Android 4.4.2; Mobile; rv:42.0) Gecko/42.0 Firefox/42.0
+312,501,33,"['vegetarian', 'lactose intolerant']",Northern Territory,Mozilla/5.0 (Android 4.4.2; Mobile; rv:51.0) Gecko/51.0 Firefox/51.0
+164,285,19,['vegan'],Victoria,Mozilla/5.0 (Android 5.0.1; Mobile; rv:39.0) Gecko/39.0 Firefox/39.0
+139,758,15,"['vegetarian', 'none']",Western Australia,Mozilla/5.0 (Android 5.1.1; Mobile; rv:30.0) Gecko/30.0 Firefox/30.0
+859,996,99,"['none', 'celiac']",South Australia,Mozilla/5.0 (Android 6.0; Mobile; rv:34.0) Gecko/34.0 Firefox/34.0
+853,429,99,"['none', 'lactose intolerant']",Northern Territory,Mozilla/5.0 (Android 6.0.1; Mobile; rv:30.0) Gecko/30.0 Firefox/30.0
+901,206,104,['none'],Tasmania,Mozilla/5.0 (Android 6.0.1; Mobile; rv:8.0) Gecko/8.0 Firefox/8.0
+361,470,41,"['none', 'celiac']",Western Australia,Mozilla/5.0 (Android 7.1.2; Mobile; rv:18.0) Gecko/18.0 Firefox/18.0
+645,731,73,['none'],Victoria,Mozilla/5.0 (compatible; MSIE 5.0; Windows 95; Trident/3.1)
+170,991,19,[],Tasmania,Mozilla/5.0 (compatible; MSIE 5.0; Windows 95; Trident/4.0)
+878,522,102,['none'],New South Wales,Mozilla/5.0 (compatible; MSIE 5.0; Windows 95; Trident/5.0)
+260,855,28,"['none', 'vegetarian']",Tasmania,Mozilla/5.0 (compatible; MSIE 5.0; Windows 95; Trident/5.0)
+171,109,20,"['nut allergy', 'lactose intolerant']",Australian Capital Territory,Mozilla/5.0 (compatible; MSIE 5.0; Windows 95; Trident/5.1)
+83,377,10,"['celiac', 'vegan']",South Australia,Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/3.1)
+627,454,71,[],New South Wales,Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/5.0)
+9,66,2,[],Tasmania,Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/5.0)
+750,933,85,"['vegetarian', 'lactose intolerant']",Victoria,Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/5.0)
+890,26,103,"['none', 'vegan']",Tasmania,Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Win 9x 4.90; Trident/4.0)
+81,204,10,['none'],New South Wales,Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Win 9x 4.90; Trident/4.1)
+401,978,45,"['vegan', 'celiac']",Northern Territory,Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/3.1)
+827,739,96,['celiac'],Tasmania,Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/3.1)
+416,875,47,['nut allergy'],Tasmania,Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/4.1)
+773,905,88,"['nut allergy', 'vegetarian']",Northern Territory,Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/5.1)
+628,939,71,"['vegetarian', 'vegan']",Western Australia,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 4.0; Trident/3.1)
+58,209,8,"['vegan', 'lactose intolerant']",South Australia,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/3.0)
+114,452,12,[],Tasmania,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/3.1)
+503,807,56,"['nut allergy', 'nut allergy']",Australian Capital Territory,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/4.0)
+978,409,114,['celiac'],Northern Territory,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/4.0)
+696,528,79,[],Northern Territory,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/4.0)
+463,403,52,[],Northern Territory,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/5.0)
+47,880,6,['lactose intolerant'],Queensland,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/5.1)
+749,864,85,['nut allergy'],South Australia,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.01; Trident/3.0)
+776,668,89,[],Queensland,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.01; Trident/3.1)
+746,311,85,"['lactose intolerant', 'celiac']",South Australia,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.01; Trident/4.0)
+222,609,25,['celiac'],Western Australia,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.01; Trident/5.0)
+586,781,67,['lactose intolerant'],Victoria,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.1; Trident/3.1)
+252,160,28,"['vegan', 'none']",Western Australia,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.1; Trident/3.1)
+193,583,22,[],Western Australia,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.1; Trident/5.0)
+606,500,69,"['vegetarian', 'lactose intolerant']",Tasmania,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/3.1)
+909,988,104,[],Tasmania,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/4.1)
+158,675,18,[],Western Australia,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/4.1)
+454,424,51,['nut allergy'],Western Australia,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.0; Trident/3.0)
+246,822,27,['none'],Australian Capital Territory,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.0; Trident/4.0)
+793,886,91,['celiac'],Western Australia,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.0; Trident/5.0)
+130,620,14,['celiac'],Northern Territory,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.0; Trident/5.1)
+244,641,27,['nut allergy'],New South Wales,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/3.1)
+88,710,10,['celiac'],Australian Capital Territory,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/4.0)
+900,47,104,[],Queensland,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/4.0)
+415,871,47,"['vegan', 'celiac']",Western Australia,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/4.1)
+715,217,82,[],Australian Capital Territory,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/5.0)
+403,214,46,[],Queensland,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.2; Trident/4.0)
+303,584,32,"['none', 'nut allergy']",South Australia,Mozilla/5.0 (compatible; MSIE 6.0; Windows 95; Trident/4.0)
+17,224,3,[],Northern Territory,Mozilla/5.0 (compatible; MSIE 6.0; Windows 95; Trident/5.0)
+330,969,35,"['nut allergy', 'vegetarian']",Western Australia,Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/3.1)
+914,582,105,['none'],Northern Territory,Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)
+199,284,23,['nut allergy'],Victoria,Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Trident/3.0)
+635,88,73,"['celiac', 'celiac']",Victoria,Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Trident/3.1)
+877,313,102,[],Western Australia,Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Trident/4.1)
+740,967,84,['none'],Tasmania,Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Trident/5.1)
+198,914,22,[],New South Wales,Mozilla/5.0 (compatible; MSIE 6.0; Windows CE; Trident/3.1)
+137,568,15,"['none', 'nut allergy']",Northern Territory,Mozilla/5.0 (compatible; MSIE 6.0; Windows CE; Trident/4.0)
+809,717,94,[],Australian Capital Territory,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 4.0; Trident/3.0)
+204,776,23,"['celiac', 'vegetarian']",Australian Capital Territory,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 4.0; Trident/3.0)
+440,131,50,"['vegetarian', 'none']",Tasmania,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 4.0; Trident/3.1)
+374,90,43,['vegetarian'],New South Wales,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 4.0; Trident/5.0)
+490,753,54,[],South Australia,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 4.0; Trident/5.0)
+830,477,97,"['nut allergy', 'vegetarian']",Western Australia,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 4.0; Trident/5.1)
+993,185,116,['none'],New South Wales,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.0; Trident/3.0)
+393,412,45,['lactose intolerant'],South Australia,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.0; Trident/3.1)
+383,455,44,['lactose intolerant'],Western Australia,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.0; Trident/5.0)
+447,650,50,[],Tasmania,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.01; Trident/4.1)
+406,861,46,['vegetarian'],Western Australia,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.01; Trident/5.0)
+387,870,44,['celiac'],Northern Territory,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; Trident/4.1)
+786,449,90,"['lactose intolerant', 'lactose intolerant']",Queensland,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/4.1)
+228,150,26,[],Queensland,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/5.0)
+660,910,75,['none'],Victoria,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/5.0)
+975,908,113,[],New South Wales,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.0; Trident/3.0)
+3,669,1,['vegan'],Tasmania,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.0; Trident/3.1)
+756,658,86,['none'],New South Wales,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.0; Trident/4.1)
+233,599,26,"['none', 'celiac']",Tasmania,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.0; Trident/5.1)
+837,194,98,"['lactose intolerant', 'none']",New South Wales,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/4.1)
+203,769,23,['lactose intolerant'],Queensland,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/4.1)
+64,527,8,[],South Australia,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/4.1)
+352,42,40,['celiac'],Victoria,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/4.1)
+738,570,84,"['none', 'celiac']",Western Australia,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/5.1)
+70,957,8,[],Northern Territory,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/4.0)
+357,707,40,[],Tasmania,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/4.1)
+465,474,52,"['lactose intolerant', 'vegetarian']",Tasmania,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/5.0)
+451,865,50,"['lactose intolerant', 'lactose intolerant']",Queensland,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/5.1)
+92,923,10,[],Victoria,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/5.1)
+473,197,53,['nut allergy'],Tasmania,Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/3.1)
+467,507,52,['celiac'],Western Australia,Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/3.1)
+913,519,105,[],Victoria,Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/4.1)
+554,606,62,['nut allergy'],Tasmania,Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/5.1)
+377,610,43,['none'],Western Australia,Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Trident/3.0)
+101,826,11,[],Western Australia,Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Trident/3.1)
+317,62,34,"['lactose intolerant', 'vegetarian']",Tasmania,Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Trident/5.0)
+884,811,102,[],Northern Territory,Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Win 9x 4.90; Trident/5.0)
+984,133,115,['nut allergy'],Victoria,Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Win 9x 4.90; Trident/5.0)
+458,661,51,"['celiac', 'lactose intolerant']",Victoria,Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Win 9x 4.90; Trident/5.0)
+109,275,12,[],Northern Territory,Mozilla/5.0 (compatible; MSIE 7.0; Windows CE; Trident/4.1)
+338,495,37,[],South Australia,Mozilla/5.0 (compatible; MSIE 7.0; Windows CE; Trident/4.1)
+679,316,78,"['nut allergy', 'vegan']",Western Australia,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 4.0; Trident/3.0)
+93,20,11,"['celiac', 'nut allergy']",New South Wales,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 4.0; Trident/3.1)
+324,288,35,['celiac'],New South Wales,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 4.0; Trident/5.1)
+652,646,74,"['vegetarian', 'vegan']",Australian Capital Territory,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/4.1)
+500,319,56,['vegetarian'],South Australia,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/4.1)
+647,936,73,['celiac'],Western Australia,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/5.1)
+42,343,6,[],Victoria,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.01; Trident/3.0)
+364,892,41,[],Australian Capital Territory,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.01; Trident/4.0)
+729,530,83,['celiac'],Australian Capital Territory,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.01; Trident/4.1)
+215,895,24,[],Victoria,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.01; Trident/5.0)
+832,688,97,[],Australian Capital Territory,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/3.0)
+929,735,107,['nut allergy'],Western Australia,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/3.0)
+743,103,85,"['none', 'celiac']",New South Wales,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.1)
+616,314,70,['lactose intolerant'],Western Australia,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/5.0)
+396,802,45,"['nut allergy', 'none']",Tasmania,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/3.1)
+907,719,104,['lactose intolerant'],Victoria,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/4.0)
+216,8,25,['lactose intolerant'],Northern Territory,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/3.1)
+212,600,24,['vegan'],Tasmania,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.1)
+105,3,12,"['celiac', 'none']",Western Australia,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/5.1)
+107,178,12,['vegan'],Tasmania,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0)
+223,653,25,[],Western Australia,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0)
+556,30,63,"['vegan', 'none']",Western Australia,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/5.1)
+239,218,27,"['lactose intolerant', 'vegan']",Northern Territory,Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/3.0)
+469,798,52,"['celiac', 'vegetarian']",Tasmania,Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/4.0)
+398,856,45,['vegetarian'],Tasmania,Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/5.1)
+207,154,24,['lactose intolerant'],Northern Territory,Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/3.1)
+736,61,84,"['vegan', 'vegan']",Northern Territory,Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/4.0)
+621,533,70,['vegetarian'],Northern Territory,Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/5.0)
+925,21,107,[],Victoria,Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/5.1)
+662,183,76,"['nut allergy', 'none']",Victoria,Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/5.1)
+297,754,31,['lactose intolerant'],Northern Territory,Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/3.0)
+933,386,108,[],Victoria,Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/4.1)
+4,715,1,[],Victoria,Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/5.1)
+123,943,13,['vegetarian'],Northern Territory,Mozilla/5.0 (compatible; MSIE 8.0; Windows CE; Trident/4.0)
+179,977,20,"['nut allergy', 'celiac']",New South Wales,Mozilla/5.0 (compatible; MSIE 8.0; Windows CE; Trident/5.1)
+794,181,92,['nut allergy'],Victoria,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 4.0; Trident/3.0)
+960,553,111,[],Victoria,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 4.0; Trident/3.1)
+526,283,59,"['vegan', 'none']",Tasmania,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 4.0; Trident/4.0)
+302,357,32,"['celiac', 'vegetarian']",Victoria,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 4.0; Trident/4.0)
+668,249,77,"['vegetarian', 'lactose intolerant']",New South Wales,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 4.0; Trident/5.0)
+259,732,28,[],Northern Territory,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 4.0; Trident/5.0)
+273,627,29,[],Tasmania,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/3.1)
+818,740,95,['vegan'],New South Wales,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/4.0)
+688,180,79,['vegan'],Western Australia,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/4.0)
+725,59,83,"['vegan', 'nut allergy']",Victoria,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/5.0)
+63,480,8,"['lactose intolerant', 'celiac']",Western Australia,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.01; Trident/4.0)
+218,136,25,"['none', 'nut allergy']",Western Australia,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.01; Trident/4.1)
+577,983,65,['celiac'],Western Australia,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.01; Trident/5.0)
+726,91,83,[],Australian Capital Territory,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.1)
+546,948,61,['vegan'],Australian Capital Territory,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.1)
+857,831,99,['vegetarian'],Northern Territory,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/5.1)
+618,389,70,['nut allergy'],Queensland,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/3.0)
+159,805,18,[],Queensland,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/3.0)
+230,359,26,"['lactose intolerant', 'none']",Australian Capital Territory,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/4.1)
+615,279,70,[],Australian Capital Territory,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/5.1)
+564,143,64,['nut allergy'],Victoria,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/3.0)
+1,211,1,[],Northern Territory,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/3.1)
+99,489,11,['vegan'],Tasmania,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/3.1)
+889,18,103,[],New South Wales,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0)
+584,320,67,['none'],Queensland,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/5.1)
+611,690,69,[],Queensland,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/5.1)
+189,503,22,"['lactose intolerant', 'none']",Tasmania,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/3.0)
+154,904,17,[],Northern Territory,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0)
+866,882,100,[],Victoria,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.1)
+744,244,85,[],South Australia,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/5.0)
+797,899,92,"['vegan', 'celiac']",New South Wales,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/5.1)
+7,960,1,['nut allergy'],Tasmania,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/3.0)
+563,11,64,[],Northern Territory,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/4.0)
+713,50,82,['none'],Tasmania,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/4.0)
+613,31,70,['celiac'],Western Australia,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/4.0)
+583,32,67,"['vegan', 'celiac']",Queensland,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/4.1)
+693,438,79,"['vegetarian', 'nut allergy']",Western Australia,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/4.1)
+573,122,65,['celiac'],Tasmania,Mozilla/5.0 (compatible; MSIE 9.0; Windows 95; Trident/4.0)
+932,132,108,['lactose intolerant'],Victoria,Mozilla/5.0 (compatible; MSIE 9.0; Windows 95; Trident/4.1)
+71,994,8,['vegetarian'],Northern Territory,Mozilla/5.0 (compatible; MSIE 9.0; Windows 95; Trident/5.0)
+477,716,53,['vegetarian'],Northern Territory,Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Trident/4.0)
+36,509,5,[],Queensland,Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Trident/4.0)
+601,48,69,"['vegan', 'vegetarian']",Western Australia,Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Trident/5.0)
+196,854,22,[],New South Wales,Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Win 9x 4.90; Trident/5.0)
+848,40,99,[],Western Australia,Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Win 9x 4.90; Trident/5.1)
+85,595,10,"['none', 'nut allergy']",Western Australia,Mozilla/5.0 (compatible; MSIE 9.0; Windows CE; Trident/4.0)
+272,544,29,"['vegan', 'lactose intolerant']",South Australia,Mozilla/5.0 (compatible; MSIE 9.0; Windows CE; Trident/5.1)
+455,450,51,[],Western Australia,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/3.0)
+801,663,93,[],Queensland,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/3.1)
+367,295,42,[],Western Australia,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/4.0)
+280,174,30,[],Australian Capital Territory,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/5.0)
+141,13,16,['none'],Western Australia,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/5.0)
+804,280,94,['lactose intolerant'],Northern Territory,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.0; Trident/5.0)
+459,692,51,"['vegan', 'celiac']",Queensland,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.0; Trident/5.1)
+173,315,20,"['lactose intolerant', 'nut allergy']",Australian Capital Territory,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.01; Trident/3.0)
+279,117,30,"['nut allergy', 'vegan']",Queensland,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.01; Trident/3.1)
+422,219,48,[],Queensland,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.01; Trident/4.1)
+439,101,50,"['nut allergy', 'celiac']",Australian Capital Territory,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/3.0)
+819,834,95,[],New South Wales,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/3.1)
+86,681,10,['none'],Queensland,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/3.1)
+345,379,38,[],Queensland,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/4.1)
+254,464,28,['nut allergy'],Victoria,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.2; Trident/3.0)
+970,120,113,[],South Australia,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.2; Trident/3.1)
+483,74,54,['none'],Northern Territory,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.2; Trident/4.1)
+864,711,100,[],Victoria,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/3.1)
+875,169,102,['nut allergy'],Northern Territory,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/4.0)
+552,380,62,['celiac'],Western Australia,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/4.0)
+441,184,50,"['vegan', 'none']",Tasmania,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.1)
+188,256,22,['none'],Australian Capital Territory,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.1)
+129,481,14,"['nut allergy', 'celiac']",Northern Territory,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.1)
+309,245,33,['none'],Tasmania,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; Trident/3.1)
+873,771,101,['none'],New South Wales,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; Trident/4.0)
+896,673,103,['vegetarian'],New South Wales,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; Trident/4.1)
+858,928,99,"['none', 'vegan']",Victoria,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; Trident/5.0)
+687,140,79,[],Victoria,"Mozilla/5.0 (iPad; CPU iPad OS 10_3_3 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) FxiOS/17.6s6041.0 Mobile/21E345 Safari/531.0"
+265,64,29,[],Australian Capital Territory,"Mozilla/5.0 (iPad; CPU iPad OS 10_3_3 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) CriOS/26.0.886.0 Mobile/10O463 Safari/531.2"
+131,664,14,[],South Australia,"Mozilla/5.0 (iPad; CPU iPad OS 10_3_3 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) FxiOS/16.6i1663.0 Mobile/24K866 Safari/533.1"
+691,333,79,['none'],Tasmania,"Mozilla/5.0 (iPad; CPU iPad OS 10_3_3 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) FxiOS/14.7o3863.0 Mobile/42W655 Safari/534.0"
+178,924,20,[],Queensland,"Mozilla/5.0 (iPad; CPU iPad OS 10_3_3 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) CriOS/20.0.845.0 Mobile/50L101 Safari/536.1"
+918,146,106,['none'],Victoria,"Mozilla/5.0 (iPad; CPU iPad OS 10_3_3 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) FxiOS/13.3x7032.0 Mobile/08M097 Safari/536.1"
+380,221,44,"['vegan', 'nut allergy']",Queensland,"Mozilla/5.0 (iPad; CPU iPad OS 10_3_4 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) FxiOS/15.2u1502.0 Mobile/52K138 Safari/531.1"
+699,81,80,"['none', 'vegan']",New South Wales,"Mozilla/5.0 (iPad; CPU iPad OS 10_3_4 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) CriOS/59.0.832.0 Mobile/47N478 Safari/532.0"
+998,645,116,"['vegetarian', 'lactose intolerant']",Tasmania,"Mozilla/5.0 (iPad; CPU iPad OS 10_3_4 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) FxiOS/11.2r0616.0 Mobile/47I121 Safari/534.2"
+735,941,83,['nut allergy'],Tasmania,"Mozilla/5.0 (iPad; CPU iPad OS 10_3_4 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) FxiOS/13.5l1180.0 Mobile/17N256 Safari/536.0"
+453,12,51,"['nut allergy', 'nut allergy']",New South Wales,"Mozilla/5.0 (iPad; CPU iPad OS 10_3_4 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) FxiOS/15.7i1231.0 Mobile/09V100 Safari/536.1"
+976,945,113,[],Australian Capital Territory,"Mozilla/5.0 (iPad; CPU iPad OS 12_4 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) FxiOS/16.0f6365.0 Mobile/39H158 Safari/531.0"
+142,790,16,['nut allergy'],South Australia,"Mozilla/5.0 (iPad; CPU iPad OS 12_4 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) FxiOS/10.5b8557.0 Mobile/89U857 Safari/531.2"
+798,987,92,['none'],Northern Territory,"Mozilla/5.0 (iPad; CPU iPad OS 12_4 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) CriOS/18.0.820.0 Mobile/69U298 Safari/532.2"
+250,22,28,"['lactose intolerant', 'vegan']",Northern Territory,"Mozilla/5.0 (iPad; CPU iPad OS 3_1_3 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) FxiOS/13.5y0515.0 Mobile/47R536 Safari/531.1"
+262,929,28,"['lactose intolerant', 'none']",Australian Capital Territory,"Mozilla/5.0 (iPad; CPU iPad OS 3_1_3 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) CriOS/23.0.847.0 Mobile/56I460 Safari/533.1"
+959,362,111,"['lactose intolerant', 'vegetarian']",New South Wales,"Mozilla/5.0 (iPad; CPU iPad OS 3_1_3 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/14.0n8472.0 Mobile/64J627 Safari/535.2"
+892,93,103,"['vegan', 'vegetarian']",Western Australia,"Mozilla/5.0 (iPad; CPU iPad OS 3_1_3 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) FxiOS/17.4p4987.0 Mobile/53N081 Safari/536.0"
+604,258,69,['vegetarian'],New South Wales,"Mozilla/5.0 (iPad; CPU iPad OS 4_2_1 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) CriOS/51.0.836.0 Mobile/07P751 Safari/531.0"
+277,961,29,"['vegetarian', 'lactose intolerant']",Northern Territory,"Mozilla/5.0 (iPad; CPU iPad OS 4_2_1 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) FxiOS/11.1k3842.0 Mobile/58C615 Safari/533.0"
+719,644,82,['lactose intolerant'],South Australia,"Mozilla/5.0 (iPad; CPU iPad OS 4_2_1 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) FxiOS/9.8k1856.0 Mobile/24L701 Safari/533.0"
+542,163,61,['vegan'],Northern Territory,"Mozilla/5.0 (iPad; CPU iPad OS 5_1_1 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) CriOS/50.0.857.0 Mobile/78C603 Safari/531.0"
+419,99,48,['vegan'],Australian Capital Territory,"Mozilla/5.0 (iPad; CPU iPad OS 5_1_1 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) CriOS/57.0.826.0 Mobile/50O275 Safari/531.1"
+35,368,5,[],Western Australia,"Mozilla/5.0 (iPad; CPU iPad OS 5_1_1 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) FxiOS/14.0w1493.0 Mobile/68R186 Safari/533.0"
+543,164,61,['none'],New South Wales,"Mozilla/5.0 (iPad; CPU iPad OS 5_1_1 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) CriOS/21.0.813.0 Mobile/99H925 Safari/533.2"
+163,167,19,['vegetarian'],South Australia,"Mozilla/5.0 (iPad; CPU iPad OS 5_1_1 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) CriOS/33.0.860.0 Mobile/60B741 Safari/534.0"
+988,356,115,[],Queensland,"Mozilla/5.0 (iPad; CPU iPad OS 5_1_1 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) CriOS/29.0.849.0 Mobile/51F888 Safari/535.2"
+334,843,36,"['vegetarian', 'vegan']",South Australia,"Mozilla/5.0 (iPad; CPU iPad OS 6_1_6 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) CriOS/45.0.887.0 Mobile/30F013 Safari/531.1"
+296,642,31,['celiac'],Northern Territory,"Mozilla/5.0 (iPad; CPU iPad OS 6_1_6 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) CriOS/28.0.857.0 Mobile/01S437 Safari/532.0"
+11,253,2,"['nut allergy', 'celiac']",Queensland,"Mozilla/5.0 (iPad; CPU iPad OS 6_1_6 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) CriOS/40.0.866.0 Mobile/40N496 Safari/533.1"
+94,28,11,['celiac'],Northern Territory,"Mozilla/5.0 (iPad; CPU iPad OS 7_1_2 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) CriOS/63.0.821.0 Mobile/39R627 Safari/535.1"
+110,385,12,['nut allergy'],South Australia,"Mozilla/5.0 (iPad; CPU iPad OS 9_3_5 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) FxiOS/9.1h9502.0 Mobile/57P192 Safari/532.1"
+549,276,62,['vegan'],Northern Territory,"Mozilla/5.0 (iPad; CPU iPad OS 9_3_5 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) FxiOS/16.9k7112.0 Mobile/86U091 Safari/535.0"
+758,926,86,['celiac'],Victoria,"Mozilla/5.0 (iPad; CPU iPad OS 9_3_5 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/14.5m4829.0 Mobile/64K017 Safari/535.2"
+703,77,81,['celiac'],Northern Territory,"Mozilla/5.0 (iPad; CPU iPad OS 9_3_6 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) CriOS/58.0.811.0 Mobile/43E790 Safari/533.0"
+145,138,17,[],Queensland,"Mozilla/5.0 (iPad; CPU iPad OS 9_3_6 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) CriOS/38.0.891.0 Mobile/02O384 Safari/535.0"
+537,920,60,[],Tasmania,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) CriOS/33.0.812.0 Mobile/02R000 Safari/531.0"
+69,883,8,"['celiac', 'celiac']",Northern Territory,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) CriOS/13.0.888.0 Mobile/23L523 Safari/532.2"
+435,720,49,"['nut allergy', 'vegan']",Western Australia,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) FxiOS/13.0l6433.0 Mobile/01U176 Safari/532.2"
+625,78,71,"['lactose intolerant', 'celiac']",New South Wales,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) CriOS/24.0.809.0 Mobile/98A340 Safari/535.0"
+181,187,21,['lactose intolerant'],New South Wales,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) FxiOS/14.7s4787.0 Mobile/44L885 Safari/535.0"
+276,859,29,"['celiac', 'vegetarian']",South Australia,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) FxiOS/17.4g5335.0 Mobile/75U128 Safari/535.0"
+891,54,103,"['none', 'nut allergy']",Australian Capital Territory,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_4 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) CriOS/50.0.842.0 Mobile/08G941 Safari/533.2"
+457,572,51,['none'],Tasmania,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_4 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) FxiOS/13.3r1576.0 Mobile/75Y042 Safari/534.2"
+682,502,78,"['none', 'vegetarian']",South Australia,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_4 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) FxiOS/9.3t1619.0 Mobile/01W220 Safari/536.2"
+301,232,32,"['celiac', 'vegetarian']",New South Wales,"Mozilla/5.0 (iPhone; CPU iPhone OS 4_2_1 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) CriOS/57.0.870.0 Mobile/66G884 Safari/533.1"
+711,900,81,"['nut allergy', 'vegan']",Victoria,"Mozilla/5.0 (iPhone; CPU iPhone OS 4_2_1 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) FxiOS/13.8c1444.0 Mobile/75M688 Safari/533.2"
+781,71,90,[],Northern Territory,"Mozilla/5.0 (iPhone; CPU iPhone OS 4_2_1 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) CriOS/45.0.872.0 Mobile/33R495 Safari/534.1"
+341,125,38,['nut allergy'],New South Wales,"Mozilla/5.0 (iPhone; CPU iPhone OS 4_2_1 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) FxiOS/13.8l0286.0 Mobile/08W567 Safari/534.2"
+764,970,87,"['vegan', 'vegetarian']",Victoria,"Mozilla/5.0 (iPhone; CPU iPhone OS 4_2_1 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) CriOS/32.0.831.0 Mobile/69H806 Safari/535.1"
+300,68,32,[],Victoria,"Mozilla/5.0 (iPhone; CPU iPhone OS 4_2_1 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) CriOS/33.0.848.0 Mobile/79Z360 Safari/535.2"
+489,706,54,"['none', 'none']",Victoria,"Mozilla/5.0 (iPhone; CPU iPhone OS 4_2_1 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) CriOS/20.0.808.0 Mobile/62V841 Safari/536.2"
+13,596,2,"['none', 'lactose intolerant']",Victoria,"Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) FxiOS/18.0e4691.0 Mobile/08M651 Safari/532.2"
+444,312,50,"['celiac', 'none']",Australian Capital Territory,"Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) CriOS/18.0.834.0 Mobile/89O327 Safari/533.2"
+168,755,19,[],Queensland,"Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) FxiOS/10.5m6896.0 Mobile/28Y726 Safari/534.0"
+97,87,11,[],Victoria,"Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) FxiOS/11.9j8892.0 Mobile/31T181 Safari/535.1"
+343,278,38,['vegan'],New South Wales,"Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) FxiOS/13.7f5287.0 Mobile/26T219 Safari/536.0"
+91,901,10,[],Australian Capital Territory,"Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) FxiOS/14.3k4649.0 Mobile/79D982 Safari/536.2"
+730,543,83,['lactose intolerant'],Victoria,"Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_6 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) CriOS/26.0.889.0 Mobile/20B006 Safari/532.1"
+82,266,10,[],Tasmania,"Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_6 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) CriOS/36.0.897.0 Mobile/55U943 Safari/534.0"
+867,898,100,[],Victoria,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) FxiOS/10.2u4228.0 Mobile/60P877 Safari/531.0"
+574,860,65,"['vegan', 'lactose intolerant']",Western Australia,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) CriOS/52.0.855.0 Mobile/52G168 Safari/533.0"
+926,35,107,['vegan'],Victoria,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) CriOS/45.0.841.0 Mobile/19A863 Safari/533.1"
+269,425,29,"['vegetarian', 'celiac']",New South Wales,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) CriOS/19.0.810.0 Mobile/22M967 Safari/534.2"
+608,514,69,[],Australian Capital Territory,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/12.8t9721.0 Mobile/87G772 Safari/535.2"
+226,974,25,['celiac'],Western Australia,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) FxiOS/15.9j3006.0 Mobile/63U711 Safari/536.1"
+488,622,54,"['celiac', 'vegetarian']",Western Australia,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) FxiOS/17.1b1108.0 Mobile/65V901 Safari/536.2"
+754,89,86,[],Tasmania,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) FxiOS/15.9s9546.0 Mobile/29P170 Safari/535.0"
+197,877,22,[],Northern Territory,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) FxiOS/17.5x3061.0 Mobile/66C649 Safari/536.2"
+622,590,70,"['nut allergy', 'none']",Tasmania,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_6 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) CriOS/34.0.831.0 Mobile/91O669 Safari/532.2"
+421,205,48,"['vegan', 'celiac']",New South Wales,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_6 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) CriOS/34.0.800.0 Mobile/80X835 Safari/535.0"
+953,67,110,['nut allergy'],New South Wales,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_6 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) FxiOS/11.4t1946.0 Mobile/66B546 Safari/536.1"
+843,576,98,['lactose intolerant'],Victoria,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_6 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) CriOS/63.0.850.0 Mobile/69T604 Safari/536.2"
+856,820,99,['vegetarian'],Victoria,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; fa-IR) AppleWebKit/533.11.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B115 Safari/6533.11.2"
+812,127,95,"['vegetarian', 'nut allergy']",New South Wales,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; ja-JP) AppleWebKit/531.3.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6531.3.2"
+883,777,102,['vegan'],Australian Capital Territory,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; ja-JP) AppleWebKit/532.1.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6532.1.7"
+27,942,3,"['none', 'lactose intolerant']",South Australia,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; lb-LU) AppleWebKit/532.14.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6532.14.7"
+319,238,34,[],Western Australia,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; ln-CD) AppleWebKit/531.21.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B114 Safari/6531.21.5"
+747,351,85,['none'],New South Wales,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; lo-LA) AppleWebKit/533.19.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B118 Safari/6533.19.3"
+496,774,55,['none'],Western Australia,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; mhr-RU) AppleWebKit/535.32.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B114 Safari/6535.32.6"
+147,448,17,['vegetarian'],Northern Territory,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; quz-PE) AppleWebKit/531.11.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6531.11.7"
+425,487,48,"['lactose intolerant', 'celiac']",Western Australia,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; ro-RO) AppleWebKit/534.21.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6534.21.1"
+336,947,36,[],Northern Territory,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; ro-RO) AppleWebKit/535.4.1 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6535.4.1"
+677,124,78,[],Queensland,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; sa-IN) AppleWebKit/534.14.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B119 Safari/6534.14.3"
+886,921,102,['celiac'],Queensland,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; shs-CA) AppleWebKit/532.41.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B114 Safari/6532.41.4"
+778,836,89,['vegan'],Tasmania,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; vi-VN) AppleWebKit/535.17.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6535.17.2"
+930,862,107,"['vegan', 'vegan']",Western Australia,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; wo-SN) AppleWebKit/534.47.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6534.47.7"
+588,911,67,['vegan'],South Australia,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; gd-GB) AppleWebKit/532.31.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6532.31.5"
+287,189,31,"['nut allergy', 'vegetarian']",South Australia,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; gez-ET) AppleWebKit/533.45.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6533.45.5"
+51,152,7,['vegan'],Australian Capital Territory,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; ig-NG) AppleWebKit/534.28.5 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6534.28.5"
+391,329,45,['nut allergy'],South Australia,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; ks-IN) AppleWebKit/533.44.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6533.44.2"
+885,869,102,['celiac'],Northern Territory,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; nr-ZA) AppleWebKit/532.4.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6532.4.1"
+861,198,100,[],Northern Territory,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; nso-ZA) AppleWebKit/532.33.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6532.33.5"
+149,626,17,['celiac'],Northern Territory,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; so-DJ) AppleWebKit/532.36.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B114 Safari/6532.36.3"
+491,848,54,"['none', 'none']",Northern Territory,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; aa-ET) AppleWebKit/531.41.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6531.41.5"
+938,801,108,['lactose intolerant'],Victoria,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; ga-IE) AppleWebKit/534.40.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6534.40.1"
+723,998,82,"['nut allergy', 'celiac']",Western Australia,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; gd-GB) AppleWebKit/535.7.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B114 Safari/6535.7.2"
+438,1,50,[],Australian Capital Territory,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; hu-HU) AppleWebKit/532.41.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6532.41.7"
+108,248,12,"['vegan', 'vegetarian']",Victoria,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; mag-IN) AppleWebKit/532.19.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B118 Safari/6532.19.4"
+413,700,47,['lactose intolerant'],Northern Territory,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; mag-IN) AppleWebKit/535.44.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B119 Safari/6535.44.3"
+49,2,7,['nut allergy'],Tasmania,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; ms-MY) AppleWebKit/533.2.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6533.2.2"
+919,212,106,[],South Australia,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; ru-UA) AppleWebKit/534.38.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B118 Safari/6534.38.2"
+560,371,63,['lactose intolerant'],Tasmania,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; sk-SK) AppleWebKit/532.27.6 (KHTML, like Gecko) Version/3.0.5 Mobile/8B117 Safari/6532.27.6"
+920,235,106,['nut allergy'],Northern Territory,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; wal-ET) AppleWebKit/532.5.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B114 Safari/6532.5.6"
+446,588,50,['celiac'],Victoria,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; ber-MA) AppleWebKit/533.38.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6533.38.1"
+67,623,8,['vegan'],Australian Capital Territory,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; fil-PH) AppleWebKit/535.12.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6535.12.5"
+323,800,34,[],South Australia,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; ko-KR) AppleWebKit/533.29.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6533.29.7"
+847,857,98,"['lactose intolerant', 'nut allergy']",South Australia,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; mai-IN) AppleWebKit/533.11.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6533.11.2"
+966,485,112,[],Victoria,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; nr-ZA) AppleWebKit/535.10.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B114 Safari/6535.10.4"
+936,647,108,[],Queensland,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; sk-SK) AppleWebKit/534.8.6 (KHTML, like Gecko) Version/3.0.5 Mobile/8B119 Safari/6534.8.6"
+328,832,35,"['lactose intolerant', 'vegetarian']",Tasmania,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; crh-UA) AppleWebKit/531.26.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6531.26.1"
+505,984,56,"['lactose intolerant', 'celiac']",Northern Territory,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; hi-IN) AppleWebKit/534.45.6 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6534.45.6"
+410,172,47,[],Queensland,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; hu-HU) AppleWebKit/532.44.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B119 Safari/6532.44.3"
+665,200,77,['vegan'],South Australia,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; hy-AM) AppleWebKit/534.37.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6534.37.6"
+655,190,75,['vegan'],South Australia,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; lv-LV) AppleWebKit/534.14.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6534.14.7"
+56,657,7,[],Western Australia,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; pt-BR) AppleWebKit/535.33.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B114 Safari/6535.33.2"
+274,640,29,"['vegetarian', 'nut allergy']",Western Australia,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; tcy-IN) AppleWebKit/532.1.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6532.1.1"
+702,850,80,['none'],Tasmania,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; wae-CH) AppleWebKit/533.21.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6533.21.4"
+582,678,66,[],Victoria,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; an-ES) AppleWebKit/533.31.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6533.31.2"
+767,149,88,"['nut allergy', 'lactose intolerant']",Queensland,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; mk-MK) AppleWebKit/533.7.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6533.7.1"
+994,296,116,[],Australian Capital Territory,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; nr-ZA) AppleWebKit/531.37.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6531.37.6"
+15,794,2,"['nut allergy', 'lactose intolerant']",Western Australia,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; pt-PT) AppleWebKit/534.10.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6534.10.2"
+562,488,63,"['vegetarian', 'vegan']",Queensland,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; tr-CY) AppleWebKit/533.43.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6533.43.7"
+270,540,29,"['nut allergy', 'none']",Victoria,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; wo-SN) AppleWebKit/531.47.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6531.47.4"
+360,404,41,['lactose intolerant'],South Australia,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; ast-ES) AppleWebKit/532.12.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6532.12.3"
+700,213,80,['lactose intolerant'],Queensland,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; ca-AD) AppleWebKit/533.12.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6533.12.6"
+714,73,82,"['none', 'vegetarian']",Queensland,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; gez-ER) AppleWebKit/533.11.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6533.11.1"
+887,971,102,[],South Australia,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; gv-GB) AppleWebKit/532.40.5 (KHTML, like Gecko) Version/3.0.5 Mobile/8B115 Safari/6532.40.5"
+910,229,105,['lactose intolerant'],Queensland,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; hy-AM) AppleWebKit/535.34.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6535.34.6"
+653,121,75,"['lactose intolerant', 'lactose intolerant']",South Australia,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; lb-LU) AppleWebKit/533.35.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6533.35.6"
+183,469,21,[],Tasmania,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; lo-LA) AppleWebKit/534.25.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B114 Safari/6534.25.3"
+460,868,51,[],Australian Capital Territory,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; mr-IN) AppleWebKit/535.10.1 (KHTML, like Gecko) Version/3.0.5 Mobile/8B118 Safari/6535.10.1"
+704,170,81,"['lactose intolerant', 'vegetarian']",New South Wales,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; quz-PE) AppleWebKit/534.35.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6534.35.7"
+893,269,103,['lactose intolerant'],New South Wales,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; shs-CA) AppleWebKit/535.47.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6535.47.7"
+30,671,4,[],South Australia,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; sid-ET) AppleWebKit/534.20.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6534.20.1"
+643,498,73,[],Western Australia,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; sq-AL) AppleWebKit/531.35.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B116 Safari/6531.35.4"
+748,531,85,"['vegetarian', 'nut allergy']",Queensland,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; eo-US) AppleWebKit/531.13.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6531.13.6"
+803,940,93,[],Western Australia,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; ik-CA) AppleWebKit/532.25.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6532.25.6"
+720,677,82,['celiac'],Australian Capital Territory,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; szl-PL) AppleWebKit/532.44.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B115 Safari/6532.44.2"
+658,327,75,['nut allergy'],Western Australia,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; wae-CH) AppleWebKit/531.6.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6531.6.1"
+135,408,15,['none'],South Australia,"Mozilla/5.0 (Linux; Android 1.0) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/30.0.864.0 Safari/535.1"
+734,821,83,[],Western Australia,"Mozilla/5.0 (Linux; Android 1.5) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/57.0.838.0 Safari/533.2"
+761,473,87,['celiac'],South Australia,"Mozilla/5.0 (Linux; Android 1.5) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/33.0.872.0 Safari/535.0"
+822,268,96,"['vegetarian', 'vegan']",Western Australia,"Mozilla/5.0 (Linux; Android 1.5) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/27.0.891.0 Safari/536.1"
+808,694,94,[],Victoria,"Mozilla/5.0 (Linux; Android 2.2.1) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/44.0.812.0 Safari/534.2"
+412,387,47,[],Tasmania,"Mozilla/5.0 (Linux; Android 2.2) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/25.0.864.0 Safari/533.0"
+359,250,41,[],South Australia,"Mozilla/5.0 (Linux; Android 2.3.1) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/51.0.859.0 Safari/532.2"
+828,234,97,[],Queensland,"Mozilla/5.0 (Linux; Android 2.3.3) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/60.0.858.0 Safari/535.2"
+862,381,100,['none'],Australian Capital Territory,"Mozilla/5.0 (Linux; Android 2.3.5) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/58.0.889.0 Safari/536.2"
+408,980,46,"['vegan', 'vegetarian']",South Australia,"Mozilla/5.0 (Linux; Android 2.3.7) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/29.0.835.0 Safari/534.2"
+224,654,25,['lactose intolerant'],Northern Territory,"Mozilla/5.0 (Linux; Android 2.3.7) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/62.0.820.0 Safari/535.0"
+579,23,66,"['lactose intolerant', 'nut allergy']",Queensland,"Mozilla/5.0 (Linux; Android 2.3) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/38.0.858.0 Safari/532.1"
+708,742,81,"['vegetarian', 'vegan']",Victoria,"Mozilla/5.0 (Linux; Android 3.0) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/33.0.882.0 Safari/533.2"
+787,953,90,"['vegan', 'vegetarian']",New South Wales,"Mozilla/5.0 (Linux; Android 3.0) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/47.0.858.0 Safari/534.1"
+607,511,69,['none'],Queensland,"Mozilla/5.0 (Linux; Android 3.1) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/15.0.800.0 Safari/533.0"
+370,867,42,"['none', 'none']",Tasmania,"Mozilla/5.0 (Linux; Android 3.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/49.0.840.0 Safari/535.2"
+951,842,109,['nut allergy'],Northern Territory,"Mozilla/5.0 (Linux; Android 3.2.1) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/52.0.808.0 Safari/534.0"
+666,222,77,"['vegetarian', 'none']",New South Wales,"Mozilla/5.0 (Linux; Android 4.0.1) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/24.0.888.0 Safari/536.2"
+122,666,13,[],Northern Territory,"Mozilla/5.0 (Linux; Android 4.0.2) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/33.0.857.0 Safari/532.2"
+572,107,65,[],Australian Capital Territory,"Mozilla/5.0 (Linux; Android 4.0) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/27.0.826.0 Safari/533.0"
+263,25,29,"['celiac', 'lactose intolerant']",Western Australia,"Mozilla/5.0 (Linux; Android 4.0) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/63.0.815.0 Safari/534.1"
+395,789,45,[],New South Wales,"Mozilla/5.0 (Linux; Android 4.0) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/20.0.897.0 Safari/536.0"
+598,691,68,"['celiac', 'vegan']",New South Wales,"Mozilla/5.0 (Linux; Android 4.1.2) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/31.0.870.0 Safari/532.0"
+587,851,67,"['celiac', 'nut allergy']",New South Wales,"Mozilla/5.0 (Linux; Android 4.1.2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/30.0.878.0 Safari/535.2"
+258,630,28,['lactose intolerant'],Australian Capital Territory,"Mozilla/5.0 (Linux; Android 4.2) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/38.0.898.0 Safari/534.0"
+128,433,14,"['vegetarian', 'nut allergy']",South Australia,"Mozilla/5.0 (Linux; Android 4.3) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/61.0.890.0 Safari/531.1"
+790,573,91,['lactose intolerant'],Western Australia,"Mozilla/5.0 (Linux; Android 4.3) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/17.0.855.0 Safari/535.0"
+174,345,20,[],Victoria,"Mozilla/5.0 (Linux; Android 4.3) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/22.0.806.0 Safari/535.2"
+21,471,3,['none'],Western Australia,"Mozilla/5.0 (Linux; Android 4.4.1) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/31.0.808.0 Safari/533.2"
+513,809,57,['lactose intolerant'],Queensland,"Mozilla/5.0 (Linux; Android 4.4.2) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/58.0.860.0 Safari/532.0"
+727,410,83,"['celiac', 'none']",Northern Territory,"Mozilla/5.0 (Linux; Android 4.4.2) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/32.0.855.0 Safari/532.1"
+307,51,33,"['lactose intolerant', 'nut allergy']",Queensland,"Mozilla/5.0 (Linux; Android 5.1.1) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/58.0.869.0 Safari/533.1"
+820,888,95,['none'],New South Wales,"Mozilla/5.0 (Linux; Android 5.1) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/45.0.851.0 Safari/533.0"
+724,29,83,"['lactose intolerant', 'vegan']",New South Wales,"Mozilla/5.0 (Linux; Android 6.0) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/52.0.896.0 Safari/534.0"
+362,749,41,"['lactose intolerant', 'nut allergy']",Australian Capital Territory,"Mozilla/5.0 (Linux; Android 7.0) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/34.0.847.0 Safari/534.1"
+955,128,110,['vegetarian'],Northern Territory,"Mozilla/5.0 (Linux; Android 7.1) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/33.0.874.0 Safari/531.2"
+792,806,91,['celiac'],Queensland,"Mozilla/5.0 (Linux; Android 7.1) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/31.0.876.0 Safari/532.2"
+631,612,72,['vegan'],South Australia,"Mozilla/5.0 (Linux; Android 7.1) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/60.0.827.0 Safari/536.0"
+356,686,40,"['vegetarian', 'vegetarian']",Tasmania,"Mozilla/5.0 (Linux; Android 8.1.0) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/57.0.884.0 Safari/532.2"
+382,426,44,['none'],Victoria,"Mozilla/5.0 (Linux; Android 8.1.0) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/22.0.861.0 Safari/536.0"
+806,486,94,[],New South Wales,"Mozilla/5.0 (Linux; Android 8.1.0) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/56.0.847.0 Safari/536.2"
+769,341,88,[],Australian Capital Territory,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2 rv:6.0; mai-IN) AppleWebKit/533.36.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.36.1"
+795,304,92,[],Tasmania,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_7 rv:3.0; gu-IN) AppleWebKit/531.23.3 (KHTML, like Gecko) Version/4.0 Safari/531.23.3"
+431,112,49,"['lactose intolerant', 'vegan']",Australian Capital Territory,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/42.0.837.0 Safari/536.0"
+104,918,11,['none'],South Australia,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/18.0.817.0 Safari/532.1"
+434,685,49,"['none', 'celiac']",Tasmania,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3 rv:5.0; fa-IR) AppleWebKit/531.5.3 (KHTML, like Gecko) Version/4.0.2 Safari/531.5.3"
+600,907,68,"['vegetarian', 'lactose intolerant']",Queensland,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/38.0.809.0 Safari/533.2"
+247,965,27,"['celiac', 'none']",Tasmania,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/13.0.888.0 Safari/532.2"
+248,976,27,[],Western Australia,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/21.0.847.0 Safari/532.2"
+397,830,45,['lactose intolerant'],Australian Capital Territory,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_0 rv:2.0; iu-CA) AppleWebKit/533.29.4 (KHTML, like Gecko) Version/4.0 Safari/533.29.4"
+499,102,56,['lactose intolerant'],Northern Territory,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/23.0.820.0 Safari/536.2"
+355,439,40,['celiac'],South Australia,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_9 rv:2.0; el-CY) AppleWebKit/535.33.5 (KHTML, like Gecko) Version/4.1 Safari/535.33.5"
+717,515,82,"['none', 'none']",New South Wales,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_5; rv:1.9.2.20) Gecko/2014-11-10 11:50:47 Firefox/3.8
+835,157,98,[],Victoria,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_5) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/46.0.858.0 Safari/534.1"
+685,844,78,[],Northern Territory,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_6 rv:3.0; fil-PH) AppleWebKit/532.40.5 (KHTML, like Gecko) Version/4.0 Safari/532.40.5"
+190,561,22,['none'],Tasmania,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_0; rv:1.9.3.20) Gecko/2014-10-20 19:17:16 Firefox/3.8
+997,491,116,['lactose intolerant'],Victoria,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_3) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/24.0.822.0 Safari/531.0"
+852,303,99,"['none', 'none']",South Australia,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_6 rv:3.0; id-ID) AppleWebKit/535.33.2 (KHTML, like Gecko) Version/4.0.2 Safari/535.33.2"
+642,497,73,[],New South Wales,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_9 rv:4.0; yue-HK) AppleWebKit/533.22.7 (KHTML, like Gecko) Version/4.0.4 Safari/533.22.7"
+894,578,103,['lactose intolerant'],Queensland,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_1; rv:1.9.5.20) Gecko/2015-09-07 18:59:58 Firefox/14.0
+760,383,87,[],Tasmania,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3 rv:5.0; mhr-RU) AppleWebKit/532.48.7 (KHTML, like Gecko) Version/5.0.3 Safari/532.48.7"
+811,5,95,"['vegetarian', 'nut allergy']",Northern Territory,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4 rv:2.0; lg-UG) AppleWebKit/533.18.2 (KHTML, like Gecko) Version/5.0 Safari/533.18.2"
+66,565,8,[],Tasmania,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5; rv:1.9.4.20) Gecko/2010-11-01 14:30:20 Firefox/3.8
+60,299,8,"['vegetarian', 'vegan']",New South Wales,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_1 rv:5.0; oc-FR) AppleWebKit/531.43.2 (KHTML, like Gecko) Version/5.0.4 Safari/531.43.2"
+768,336,88,"['vegetarian', 'none']",Western Australia,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/55.0.892.0 Safari/535.1"
+111,395,12,['nut allergy'],Northern Territory,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5; rv:1.9.2.20) Gecko/2012-05-24 23:27:10 Firefox/3.8
+623,934,70,"['vegan', 'celiac']",Northern Territory,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_7; rv:1.9.5.20) Gecko/2012-05-27 15:10:56 Firefox/14.0
+6,938,1,"['nut allergy', 'vegetarian']",Northern Territory,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_8) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/43.0.834.0 Safari/533.2"
+550,302,62,['vegan'],Queensland,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0 rv:2.0; pap-AN) AppleWebKit/531.6.6 (KHTML, like Gecko) Version/5.0.1 Safari/531.6.6"
+346,607,38,[],New South Wales,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_1 rv:3.0; fi-FI) AppleWebKit/535.28.7 (KHTML, like Gecko) Version/5.1 Safari/535.28.7"
+120,619,13,['nut allergy'],Queensland,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5 rv:6.0; mk-MK) AppleWebKit/531.36.5 (KHTML, like Gecko) Version/5.0.4 Safari/531.36.5"
+332,337,36,"['none', 'none']",Australian Capital Territory,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_6) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/18.0.833.0 Safari/534.2"
+694,492,79,"['vegetarian', 'vegan']",South Australia,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_5 rv:2.0; tl-PH) AppleWebKit/533.44.1 (KHTML, like Gecko) Version/5.0.3 Safari/533.44.1"
+597,672,68,"['vegan', 'none']",South Australia,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_5 rv:4.0; bg-BG) AppleWebKit/531.7.4 (KHTML, like Gecko) Version/4.1 Safari/531.7.4"
+924,6,107,"['vegetarian', 'vegan']",Victoria,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_7 rv:2.0; lg-UG) AppleWebKit/531.29.3 (KHTML, like Gecko) Version/5.0.2 Safari/531.29.3"
+580,171,66,[],Western Australia,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_8; rv:1.9.3.20) Gecko/2010-01-12 00:09:20 Firefox/3.6.2
+25,768,3,['nut allergy'],Australian Capital Territory,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_9 rv:2.0; pl-PL) AppleWebKit/534.17.6 (KHTML, like Gecko) Version/5.0 Safari/534.17.6"
+840,529,98,['none'],Western Australia,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_2 rv:2.0; ce-RU) AppleWebKit/535.12.1 (KHTML, like Gecko) Version/5.0 Safari/535.12.1"
+561,421,63,[],New South Wales,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_7 rv:2.0; ff-SN) AppleWebKit/531.7.7 (KHTML, like Gecko) Version/4.0.3 Safari/531.7.7"
+486,413,54,[],New South Wales,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_9 rv:3.0; tig-ER) AppleWebKit/533.24.5 (KHTML, like Gecko) Version/5.0 Safari/533.24.5"
+961,636,111,[],Western Australia,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_1 rv:2.0; lt-LT) AppleWebKit/531.14.6 (KHTML, like Gecko) Version/5.0.4 Safari/531.14.6"
+335,919,36,"['vegetarian', 'none']",South Australia,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_3; rv:1.9.6.20) Gecko/2016-02-16 13:40:29 Firefox/3.8
+243,566,27,['none'],Australian Capital Territory,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_5) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/39.0.876.0 Safari/534.0"
+898,818,103,"['lactose intolerant', 'vegetarian']",Northern Territory,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_9; rv:1.9.3.20) Gecko/2011-04-28 19:45:46 Firefox/13.0
+77,723,9,['celiac'],Northern Territory,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_1; rv:1.9.6.20) Gecko/2013-02-11 18:24:41 Firefox/14.0
+1000,849,116,['vegetarian'],Queensland,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_3 rv:2.0; yo-NG) AppleWebKit/534.20.4 (KHTML, like Gecko) Version/5.1 Safari/534.20.4"
+261,896,28,[],Western Australia,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_4; rv:1.9.5.20) Gecko/2012-06-15 09:10:02 Firefox/3.6.3
+351,912,39,[],Queensland,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_6; rv:1.9.2.20) Gecko/2018-07-09 16:28:26 Firefox/3.6.10
+432,440,49,['lactose intolerant'],Western Australia,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_8 rv:4.0; szl-PL) AppleWebKit/533.33.7 (KHTML, like Gecko) Version/5.0.5 Safari/533.33.7"
+478,746,53,['celiac'],Tasmania,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_8 rv:5.0; ik-CA) AppleWebKit/534.11.7 (KHTML, like Gecko) Version/5.0 Safari/534.11.7"
+200,468,23,['vegan'],New South Wales,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_0) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/37.0.836.0 Safari/532.0"
+143,917,16,['vegetarian'],Tasmania,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_1) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/60.0.858.0 Safari/536.2"
+595,376,68,['vegetarian'],South Australia,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_3) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/14.0.866.0 Safari/533.0"
+59,274,8,['celiac'],Western Australia,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_4; rv:1.9.2.20) Gecko/2017-03-14 11:09:45 Firefox/3.6.13
+103,887,11,"['lactose intolerant', 'vegetarian']",Western Australia,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_4) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/59.0.867.0 Safari/535.2"
+369,405,42,[],Australian Capital Territory,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_4) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/62.0.890.0 Safari/536.2"
+916,885,105,[],Australian Capital Territory,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_5; rv:1.9.3.20) Gecko/2015-09-06 22:29:42 Firefox/15.0
+84,427,10,[],Australian Capital Territory,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_5) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/45.0.888.0 Safari/533.0"
+701,625,80,"['none', 'vegan']",Western Australia,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_9 rv:5.0; ko-KR) AppleWebKit/532.2.3 (KHTML, like Gecko) Version/4.0.4 Safari/532.2.3"
+753,956,85,['vegan'],Tasmania,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_3; rv:1.9.5.20) Gecko/2020-06-12 23:20:55 Firefox/9.0
+566,352,64,"['celiac', 'nut allergy']",Queensland,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_4 rv:4.0; ps-AF) AppleWebKit/534.30.5 (KHTML, like Gecko) Version/5.0.1 Safari/534.30.5"
+231,435,26,"['lactose intolerant', 'vegan']",Western Australia,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_6; rv:1.9.5.20) Gecko/2013-10-05 19:11:43 Firefox/13.0
+237,872,26,[],Northern Territory,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_7; rv:1.9.2.20) Gecko/2016-08-13 01:13:44 Firefox/3.6.19
+379,84,44,['vegetarian'],Tasmania,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_8 rv:5.0; yo-NG) AppleWebKit/531.35.5 (KHTML, like Gecko) Version/4.0.4 Safari/531.35.5"
+632,652,72,"['celiac', 'vegan']",South Australia,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_8 rv:6.0; nr-ZA) AppleWebKit/532.13.3 (KHTML, like Gecko) Version/4.0 Safari/532.13.3"
+854,611,99,[],Tasmania,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_8; rv:1.9.3.20) Gecko/2013-05-06 08:08:00 Firefox/3.8
+939,814,108,[],Western Australia,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_2 rv:2.0; bg-BG) AppleWebKit/531.5.1 (KHTML, like Gecko) Version/4.1 Safari/531.5.1"
+229,277,26,"['vegan', 'nut allergy']",Northern Territory,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_4; rv:1.9.4.20) Gecko/2018-02-12 06:40:08 Firefox/6.0
+814,251,95,[],Northern Territory,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_5) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/52.0.862.0 Safari/536.0"
+659,709,75,['vegetarian'],Australian Capital Territory,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_6; rv:1.9.6.20) Gecko/2020-03-30 06:51:49 Firefox/3.6.7
+253,246,28,['vegetarian'],Western Australia,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_9 rv:3.0; os-RU) AppleWebKit/535.16.2 (KHTML, like Gecko) Version/5.0.4 Safari/535.16.2"
+957,188,110,[],Australian Capital Territory,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_9; rv:1.9.4.20) Gecko/2013-07-13 05:23:17 Firefox/15.0
+221,605,25,"['none', 'nut allergy']",Western Australia,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_4 rv:3.0; fi-FI) AppleWebKit/533.33.3 (KHTML, like Gecko) Version/5.0.2 Safari/533.33.3"
+411,364,47,[],Victoria,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_4 rv:5.0; it-CH) AppleWebKit/533.6.1 (KHTML, like Gecko) Version/4.0.2 Safari/533.6.1"
+902,416,104,"['nut allergy', 'vegetarian']",South Australia,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_4; rv:1.9.5.20) Gecko/2012-08-11 06:37:10 Firefox/14.0
+14,689,2,['vegetarian'],Queensland,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_7 rv:4.0; bn-BD) AppleWebKit/534.22.3 (KHTML, like Gecko) Version/5.1 Safari/534.22.3"
+156,995,17,['celiac'],Northern Territory,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_7 rv:5.0; szl-PL) AppleWebKit/531.50.1 (KHTML, like Gecko) Version/4.0.4 Safari/531.50.1"
+390,272,45,[],Western Australia,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_9; rv:1.9.5.20) Gecko/2013-03-10 02:41:26 Firefox/3.6.17
+214,683,24,['celiac'],Northern Territory,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_2 rv:4.0; fa-IR) AppleWebKit/532.15.4 (KHTML, like Gecko) Version/4.1 Safari/532.15.4"
+971,547,113,['vegetarian'],Queensland,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_2) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/49.0.883.0 Safari/533.1"
+321,558,34,['lactose intolerant'],Northern Territory,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_4 rv:6.0; ha-NG) AppleWebKit/535.27.6 (KHTML, like Gecko) Version/5.1 Safari/535.27.6"
+948,465,109,['vegetarian'],New South Wales,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_7 rv:6.0; fil-PH) AppleWebKit/533.20.2 (KHTML, like Gecko) Version/5.0.1 Safari/533.20.2"
+424,349,48,['none'],Tasmania,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_7) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/43.0.898.0 Safari/535.2"
+905,665,104,[],Victoria,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_0) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/52.0.823.0 Safari/531.0"
+23,521,3,['lactose intolerant'],Queensland,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_4 rv:6.0; mag-IN) AppleWebKit/532.2.1 (KHTML, like Gecko) Version/5.1 Safari/532.2.1"
+515,951,57,"['vegan', 'lactose intolerant']",New South Wales,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_8 rv:3.0; lij-IT) AppleWebKit/533.9.2 (KHTML, like Gecko) Version/4.1 Safari/533.9.2"
+981,787,114,[],Victoria,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_9; rv:1.9.2.20) Gecko/2018-02-07 21:28:45 Firefox/11.0
+474,202,53,"['none', 'lactose intolerant']",New South Wales,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_3 rv:4.0; es-VE) AppleWebKit/532.40.2 (KHTML, like Gecko) Version/4.0.1 Safari/532.40.2"
+807,567,94,[],New South Wales,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_3; rv:1.9.2.20) Gecko/2012-06-15 22:36:24 Firefox/9.0
+326,795,35,[],Tasmania,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_9; rv:1.9.2.20) Gecko/2016-02-23 23:13:45 Firefox/5.0
+943,881,108,[],Tasmania,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_9; rv:1.9.5.20) Gecko/2019-01-01 18:27:43 Firefox/3.6.3
+865,803,100,['vegetarian'],Queensland,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_3 rv:5.0; ru-RU) AppleWebKit/533.36.2 (KHTML, like Gecko) Version/5.0.1 Safari/533.36.2"
+530,594,59,[],Northern Territory,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; rv:1.9.3.20) Gecko/2016-09-04 18:47:20 Firefox/3.8
+817,674,95,['vegan'],Northern Territory,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/27.0.831.0 Safari/535.2"
+690,323,79,['celiac'],Western Australia,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/55.0.846.0 Safari/535.2"
+475,460,53,"['nut allergy', 'lactose intolerant']",New South Wales,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_9; rv:1.9.4.20) Gecko/2010-12-02 06:16:47 Firefox/3.8
+26,780,3,"['nut allergy', 'lactose intolerant']",Northern Territory,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_2 rv:3.0; rw-RW) AppleWebKit/535.5.3 (KHTML, like Gecko) Version/5.1 Safari/535.5.3"
+698,784,79,[],New South Wales,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_5 rv:2.0; uz-UZ) AppleWebKit/533.12.4 (KHTML, like Gecko) Version/5.0 Safari/533.12.4"
+941,835,108,['celiac'],Australian Capital Territory,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8 rv:3.0; bn-BD) AppleWebKit/535.13.3 (KHTML, like Gecko) Version/4.0.2 Safari/535.13.3"
+670,372,77,[],South Australia,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_0 rv:4.0; shs-CA) AppleWebKit/531.11.1 (KHTML, like Gecko) Version/4.1 Safari/531.11.1"
+38,656,5,"['none', 'none']",South Australia,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_0 rv:6.0; ka-GE) AppleWebKit/532.39.2 (KHTML, like Gecko) Version/5.1 Safari/532.39.2"
+160,972,18,['vegan'],Tasmania,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_2; rv:1.9.6.20) Gecko/2013-11-06 12:11:39 Firefox/3.8
+805,355,94,['lactose intolerant'],Victoria,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_3) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/36.0.882.0 Safari/531.1"
+366,129,42,"['vegan', 'lactose intolerant']",Victoria,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_4 rv:3.0; ff-SN) AppleWebKit/534.35.3 (KHTML, like Gecko) Version/5.0.1 Safari/534.35.3"
+53,401,7,['celiac'],Australian Capital Territory,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_4) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/55.0.888.0 Safari/532.0"
+127,317,14,"['nut allergy', 'lactose intolerant']",South Australia,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_7 rv:5.0; crh-UA) AppleWebKit/532.30.5 (KHTML, like Gecko) Version/5.1 Safari/532.30.5"
+986,290,115,[],Victoria,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_8; rv:1.9.6.20) Gecko/2011-07-01 08:33:18 Firefox/3.6.6
+602,173,69,['nut allergy'],Victoria,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_0; rv:1.9.3.20) Gecko/2012-08-10 17:31:30 Firefox/3.8
+308,98,33,"['nut allergy', 'vegetarian']",Queensland,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_1; rv:1.9.3.20) Gecko/2019-10-04 21:56:27 Firefox/3.8
+464,466,52,['vegetarian'],Tasmania,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_3) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/55.0.832.0 Safari/532.2"
+314,765,33,[],New South Wales,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_8; rv:1.9.5.20) Gecko/2011-09-20 08:02:07 Firefox/3.6.16
+829,441,97,[],South Australia,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_9 rv:4.0; sr-ME) AppleWebKit/531.22.2 (KHTML, like Gecko) Version/5.1 Safari/531.22.2"
+649,330,74,['vegetarian'],New South Wales,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_6 rv:4.0; ru-UA) AppleWebKit/534.41.3 (KHTML, like Gecko) Version/4.1 Safari/534.41.3"
+539,989,60,['lactose intolerant'],Western Australia,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_7; rv:1.9.4.20) Gecko/2012-10-22 17:34:08 Firefox/12.0
+757,775,86,['vegan'],Queensland,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_9 rv:4.0; fil-PH) AppleWebKit/531.47.3 (KHTML, like Gecko) Version/4.1 Safari/531.47.3"
+999,747,116,[],Northern Territory,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_1 rv:5.0; ik-CA) AppleWebKit/533.37.3 (KHTML, like Gecko) Version/4.1 Safari/533.37.3"
+96,76,11,[],South Australia,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_4 rv:2.0; lij-IT) AppleWebKit/531.20.2 (KHTML, like Gecko) Version/4.1 Safari/531.20.2"
+841,554,98,['vegan'],Tasmania,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_7) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/39.0.814.0 Safari/536.1"
+956,177,110,"['nut allergy', 'none']",Australian Capital Territory,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_2; rv:1.9.6.20) Gecko/2015-12-20 18:57:56 Firefox/3.6.9
+316,999,33,[],New South Wales,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_5 rv:2.0; ckb-IQ) AppleWebKit/535.13.4 (KHTML, like Gecko) Version/5.0 Safari/535.13.4"
+349,536,39,"['vegetarian', 'vegan']",New South Wales,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_6) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/61.0.899.0 Safari/535.1"
+281,193,30,['lactose intolerant'],South Australia,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_9 rv:3.0; ff-SN) AppleWebKit/533.48.3 (KHTML, like Gecko) Version/4.0.1 Safari/533.48.3"
+789,373,91,['nut allergy'],Northern Territory,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_0 rv:2.0; ky-KG) AppleWebKit/534.35.5 (KHTML, like Gecko) Version/5.1 Safari/534.35.5"
+983,878,114,"['vegetarian', 'lactose intolerant']",South Australia,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_0) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/28.0.803.0 Safari/532.1"
+544,581,61,[],Northern Territory,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_1; rv:1.9.2.20) Gecko/2011-09-21 10:00:44 Firefox/5.0
+630,151,72,['celiac'],Western Australia,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_2; rv:1.9.4.20) Gecko/2016-02-14 08:44:06 Firefox/3.6.15
+420,113,48,['celiac'],New South Wales,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_3 rv:3.0; mi-NZ) AppleWebKit/533.3.5 (KHTML, like Gecko) Version/5.0.5 Safari/533.3.5"
+567,476,64,['vegetarian'],Australian Capital Territory,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_5; rv:1.9.3.20) Gecko/2016-08-01 01:09:49 Firefox/14.0
+614,237,70,['celiac'],Western Australia,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_3) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/63.0.825.0 Safari/533.1"
+596,526,68,[],Victoria,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_6 rv:2.0; yue-HK) AppleWebKit/532.23.5 (KHTML, like Gecko) Version/5.0 Safari/532.23.5"
+291,420,31,"['none', 'vegan']",South Australia,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_7; rv:1.9.6.20) Gecko/2020-08-15 11:44:37 Firefox/3.6.7
+116,105,13,['vegan'],Northern Territory,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_9 rv:2.0; ti-ER) AppleWebKit/535.6.6 (KHTML, like Gecko) Version/4.0.1 Safari/535.6.6"
+523,697,58,['vegan'],Tasmania,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_0 rv:4.0; quz-PE) AppleWebKit/531.13.5 (KHTML, like Gecko) Version/4.0 Safari/531.13.5"
+569,701,64,['none'],Queensland,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_3) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/17.0.825.0 Safari/534.2"
+557,82,63,[],Northern Territory,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_5) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/36.0.841.0 Safari/535.2"
+590,39,68,[],Australian Capital Territory,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_7 rv:2.0; km-KH) AppleWebKit/535.47.5 (KHTML, like Gecko) Version/5.0.2 Safari/535.47.5"
+318,65,34,['lactose intolerant'],Queensland,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_8) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/18.0.806.0 Safari/534.2"
+650,339,74,"['vegetarian', 'lactose intolerant']",New South Wales,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_2) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/50.0.871.0 Safari/534.2"
+922,423,106,[],Tasmania,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_3; rv:1.9.3.20) Gecko/2018-09-23 13:37:30 Firefox/9.0
+591,233,68,[],Australian Capital Territory,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_5 rv:3.0; ku-TR) AppleWebKit/535.31.2 (KHTML, like Gecko) Version/4.0.2 Safari/535.31.2"
+990,808,115,[],Victoria,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_7; rv:1.9.2.20) Gecko/2018-05-04 14:52:09 Firefox/3.8
+640,442,73,"['vegetarian', 'lactose intolerant']",Western Australia,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_0) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/47.0.865.0 Safari/533.0"
+826,682,96,"['lactose intolerant', 'vegetarian']",Australian Capital Territory,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_2) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/42.0.824.0 Safari/532.1"
+389,220,45,['none'],Western Australia,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_4 rv:6.0; tig-ER) AppleWebKit/535.48.6 (KHTML, like Gecko) Version/4.0.1 Safari/535.48.6"
+705,201,81,[],Queensland,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_6 rv:4.0; mi-NZ) AppleWebKit/534.47.2 (KHTML, like Gecko) Version/4.0.2 Safari/534.47.2"
+844,615,98,['none'],Queensland,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_8 rv:5.0; lv-LV) AppleWebKit/531.28.7 (KHTML, like Gecko) Version/5.0 Safari/531.28.7"
+906,695,104,['celiac'],Australian Capital Territory,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_8; rv:1.9.5.20) Gecko/2011-02-14 07:48:01 Firefox/3.6.17
+76,587,9,['none'],New South Wales,Mozilla/5.0 (Windows 95; ber-DZ; rv:1.9.1.20) Gecko/2018-01-07 22:53:56 Firefox/4.0
+609,518,69,[],Australian Capital Territory,Mozilla/5.0 (Windows 95; cs-CZ; rv:1.9.1.20) Gecko/2019-03-04 21:37:02 Firefox/3.6.1
+904,550,104,"['vegan', 'lactose intolerant']",Western Australia,Mozilla/5.0 (Windows 95; fi-FI; rv:1.9.2.20) Gecko/2011-09-10 21:36:27 Firefox/3.6.13
+74,325,9,[],New South Wales,Mozilla/5.0 (Windows 95; sd-IN; rv:1.9.2.20) Gecko/2010-08-21 13:46:29 Firefox/3.6.18
+61,353,8,"['lactose intolerant', 'nut allergy']",Western Australia,Mozilla/5.0 (Windows 95; szl-PL; rv:1.9.2.20) Gecko/2016-07-30 17:46:27 Firefox/14.0
+510,419,57,['celiac'],Western Australia,"Mozilla/5.0 (Windows 95) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/38.0.860.0 Safari/532.0"
+517,231,58,"['vegan', 'celiac']",Tasmania,"Mozilla/5.0 (Windows 95) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/58.0.892.0 Safari/532.2"
+192,580,22,[],Western Australia,"Mozilla/5.0 (Windows 95) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/25.0.851.0 Safari/536.1"
+876,307,102,[],Northern Territory,Mozilla/5.0 (Windows 98; iw-IL; rv:1.9.1.20) Gecko/2019-03-07 17:54:55 Firefox/3.8
+654,145,75,"['nut allergy', 'nut allergy']",New South Wales,Mozilla/5.0 (Windows 98; li-NL; rv:1.9.0.20) Gecko/2019-09-12 20:21:27 Firefox/3.6.7
+325,538,35,['celiac'],Tasmania,Mozilla/5.0 (Windows 98; mg-MG; rv:1.9.2.20) Gecko/2017-10-11 11:35:15 Firefox/3.6.11
+589,922,67,['none'],New South Wales,Mozilla/5.0 (Windows 98; Win 9x 4.90; ast-ES; rv:1.9.0.20) Gecko/2011-12-26 17:26:02 Firefox/3.6.15
+681,398,78,"['vegetarian', 'celiac']",South Australia,Mozilla/5.0 (Windows 98; Win 9x 4.90; hy-AM; rv:1.9.1.20) Gecko/2020-11-03 10:00:52 Firefox/12.0
+162,156,19,['lactose intolerant'],Western Australia,Mozilla/5.0 (Windows 98; Win 9x 4.90; mai-IN; rv:1.9.1.20) Gecko/2016-07-31 04:04:24 Firefox/14.0
+664,649,76,[],South Australia,"Mozilla/5.0 (Windows 98; Win 9x 4.90) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/42.0.887.0 Safari/533.1"
+880,676,102,['lactose intolerant'],Tasmania,"Mozilla/5.0 (Windows 98; Win 9x 4.90) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/60.0.809.0 Safari/535.0"
+125,242,14,['vegan'],Tasmania,"Mozilla/5.0 (Windows 98) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/43.0.828.0 Safari/532.0"
+799,69,93,['vegan'],South Australia,"Mozilla/5.0 (Windows 98) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/18.0.897.0 Safari/534.1"
+378,613,43,['nut allergy'],Western Australia,Mozilla/5.0 (Windows CE; hy-AM; rv:1.9.0.20) Gecko/2019-08-16 20:41:09 Firefox/3.6.3
+751,950,85,[],New South Wales,Mozilla/5.0 (Windows CE; mi-NZ; rv:1.9.2.20) Gecko/2015-09-27 02:27:27 Firefox/9.0
+531,679,59,"['none', 'vegan']",Tasmania,Mozilla/5.0 (Windows NT 4.0; et-EE; rv:1.9.0.20) Gecko/2020-01-03 09:32:32 Firefox/12.0
+629,108,72,['vegetarian'],Victoria,Mozilla/5.0 (Windows NT 4.0; mr-IN; rv:1.9.0.20) Gecko/2010-10-26 11:12:20 Firefox/3.6.11
+245,757,27,['celiac'],Western Australia,Mozilla/5.0 (Windows NT 4.0; so-DJ; rv:1.9.2.20) Gecko/2012-02-02 00:48:43 Firefox/8.0
+942,858,108,[],Northern Territory,"Mozilla/5.0 (Windows NT 4.0) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/56.0.835.0 Safari/531.0"
+119,592,13,"['none', 'lactose intolerant']",Australian Capital Territory,"Mozilla/5.0 (Windows NT 4.0) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/25.0.819.0 Safari/532.0"
+626,85,71,['vegan'],Northern Territory,"Mozilla/5.0 (Windows NT 4.0) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/46.0.876.0 Safari/532.0"
+741,975,84,[],Queensland,"Mozilla/5.0 (Windows NT 4.0) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/44.0.849.0 Safari/532.1"
+322,727,34,"['vegan', 'nut allergy']",New South Wales,"Mozilla/5.0 (Windows NT 4.0) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/22.0.809.0 Safari/533.1"
+236,812,26,['vegan'],Victoria,"Mozilla/5.0 (Windows NT 4.0) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/55.0.896.0 Safari/534.2"
+22,506,3,"['vegan', 'none']",Northern Territory,"Mozilla/5.0 (Windows NT 4.0) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/32.0.889.0 Safari/535.0"
+480,897,53,[],Victoria,Mozilla/5.0 (Windows NT 5.0; an-ES; rv:1.9.0.20) Gecko/2011-11-13 02:02:56 Firefox/7.0
+133,168,15,"['lactose intolerant', 'vegetarian']",Northern Territory,Mozilla/5.0 (Windows NT 5.0; hne-IN; rv:1.9.1.20) Gecko/2015-06-05 15:48:42 Firefox/5.0
+472,162,53,[],South Australia,"Mozilla/5.0 (Windows NT 5.0) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/42.0.833.0 Safari/532.1"
+471,829,52,[],New South Wales,"Mozilla/5.0 (Windows NT 5.0) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/16.0.859.0 Safari/532.2"
+610,662,69,[],Western Australia,"Mozilla/5.0 (Windows NT 5.0) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/16.0.860.0 Safari/533.2"
+342,186,38,"['vegan', 'none']",Australian Capital Territory,Mozilla/5.0 (Windows NT 5.01; an-ES; rv:1.9.0.20) Gecko/2017-07-11 17:24:16 Firefox/8.0
+969,845,112,['celiac'],Northern Territory,Mozilla/5.0 (Windows NT 5.01; an-ES; rv:1.9.1.20) Gecko/2018-09-28 15:05:52 Firefox/15.0
+278,96,30,[],Northern Territory,Mozilla/5.0 (Windows NT 5.01; bg-BG; rv:1.9.0.20) Gecko/2012-05-02 18:33:11 Firefox/3.6.7
+180,45,21,[],Northern Territory,Mozilla/5.0 (Windows NT 5.01; en-BW; rv:1.9.0.20) Gecko/2020-07-13 08:48:05 Firefox/12.0
+219,182,25,[],South Australia,Mozilla/5.0 (Windows NT 5.01; he-IL; rv:1.9.1.20) Gecko/2013-02-06 18:06:20 Firefox/3.6.18
+191,577,22,[],New South Wales,Mozilla/5.0 (Windows NT 5.01; my-MM; rv:1.9.1.20) Gecko/2019-08-09 09:39:18 Firefox/3.8
+8,55,2,['celiac'],Tasmania,"Mozilla/5.0 (Windows NT 5.01) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/20.0.819.0 Safari/534.1"
+87,708,10,['vegetarian'],South Australia,"Mozilla/5.0 (Windows NT 5.01) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/51.0.818.0 Safari/536.2"
+161,116,19,['none'],Victoria,Mozilla/5.0 (Windows NT 5.1; ff-SN; rv:1.9.1.20) Gecko/2011-07-06 04:17:30 Firefox/3.6.1
+899,863,103,[],Queensland,Mozilla/5.0 (Windows NT 5.1; nhn-MX; rv:1.9.2.20) Gecko/2010-01-22 01:31:22 Firefox/3.8
+448,761,50,[],Western Australia,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/19.0.885.0 Safari/532.0"
+512,779,57,"['vegetarian', 'nut allergy']",New South Wales,Mozilla/5.0 (Windows NT 5.2; hne-IN; rv:1.9.1.20) Gecko/2019-05-25 06:15:09 Firefox/3.6.16
+52,247,7,[],Tasmania,"Mozilla/5.0 (Windows NT 5.2) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/33.0.875.0 Safari/532.0"
+113,443,12,[],South Australia,"Mozilla/5.0 (Windows NT 5.2) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/50.0.863.0 Safari/533.0"
+327,810,35,[],Australian Capital Territory,"Mozilla/5.0 (Windows NT 5.2) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/54.0.881.0 Safari/534.1"
+962,687,111,[],Tasmania,"Mozilla/5.0 (Windows NT 5.2) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/52.0.896.0 Safari/534.2"
+354,411,40,['vegetarian'],Australian Capital Territory,"Mozilla/5.0 (Windows NT 5.2) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/56.0.864.0 Safari/534.2"
+771,601,88,[],Victoria,Mozilla/5.0 (Windows NT 6.0; bhb-IN; rv:1.9.2.20) Gecko/2018-05-30 08:28:22 Firefox/7.0
+663,505,76,"['none', 'celiac']",Queensland,Mozilla/5.0 (Windows NT 6.0; fo-FO; rv:1.9.0.20) Gecko/2018-07-06 18:47:18 Firefox/3.8
+427,743,48,['nut allergy'],New South Wales,Mozilla/5.0 (Windows NT 6.0; ha-NG; rv:1.9.0.20) Gecko/2014-01-07 14:54:34 Firefox/3.8
+242,532,27,['vegetarian'],Australian Capital Territory,Mozilla/5.0 (Windows NT 6.0; niu-NU; rv:1.9.1.20) Gecko/2016-11-25 14:08:54 Firefox/9.0
+418,15,48,[],Tasmania,Mozilla/5.0 (Windows NT 6.0; wa-BE; rv:1.9.0.20) Gecko/2013-10-26 15:35:06 Firefox/14.0
+482,60,54,[],Queensland,"Mozilla/5.0 (Windows NT 6.0) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/19.0.891.0 Safari/532.0"
+372,937,42,['lactose intolerant'],South Australia,"Mozilla/5.0 (Windows NT 6.0) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/53.0.862.0 Safari/532.2"
+182,298,21,"['lactose intolerant', 'none']",Northern Territory,"Mozilla/5.0 (Windows NT 6.0) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/37.0.868.0 Safari/533.1"
+912,496,105,['vegetarian'],Tasmania,"Mozilla/5.0 (Windows NT 6.0) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/17.0.823.0 Safari/534.1"
+722,959,82,[],Tasmania,"Mozilla/5.0 (Windows NT 6.0) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/26.0.863.0 Safari/534.2"
+498,997,55,[],Northern Territory,"Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/31.0.876.0 Safari/535.2"
+788,41,91,[],New South Wales,"Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/59.0.892.0 Safari/536.1"
+333,705,36,[],Northern Territory,Mozilla/5.0 (Windows NT 6.1; hy-AM; rv:1.9.2.20) Gecko/2019-07-28 11:50:45 Firefox/15.0
+40,903,5,[],Northern Territory,Mozilla/5.0 (Windows NT 6.1; mt-MT; rv:1.9.0.20) Gecko/2013-08-07 00:25:38 Firefox/3.6.6
+980,560,114,[],South Australia,Mozilla/5.0 (Windows NT 6.1; nhn-MX; rv:1.9.2.20) Gecko/2017-10-10 06:58:20 Firefox/3.8
+733,744,83,"['none', 'vegetarian']",New South Wales,Mozilla/5.0 (Windows NT 6.1; pt-PT; rv:1.9.0.20) Gecko/2017-04-08 06:45:49 Firefox/3.6.14
+331,114,36,[],New South Wales,Mozilla/5.0 (Windows NT 6.1; ss-ZA; rv:1.9.1.20) Gecko/2016-06-16 10:36:41 Firefox/3.6.17
+55,542,7,"['lactose intolerant', 'lactose intolerant']",South Australia,Mozilla/5.0 (Windows NT 6.1; szl-PL; rv:1.9.0.20) Gecko/2020-10-17 08:23:44 Firefox/3.8
+834,137,98,"['nut allergy', 'lactose intolerant']",Tasmania,Mozilla/5.0 (Windows NT 6.1; tr-TR; rv:1.9.2.20) Gecko/2012-02-08 16:01:44 Firefox/13.0
+888,9,103,"['nut allergy', 'celiac']",Queensland,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/42.0.899.0 Safari/535.1"
+45,597,6,[],Queensland,Mozilla/5.0 (Windows NT 6.2; fr-LU; rv:1.9.2.20) Gecko/2017-05-06 10:48:40 Firefox/5.0
+275,684,29,['celiac'],Queensland,Mozilla/5.0 (Windows NT 6.2; ku-TR; rv:1.9.0.20) Gecko/2015-02-20 18:41:56 Firefox/3.8
+153,902,17,[],Queensland,Mozilla/5.0 (Windows NT 6.2; szl-PL; rv:1.9.0.20) Gecko/2016-07-30 23:26:49 Firefox/4.0
+443,305,50,[],Victoria,Mozilla/5.0 (Windows NT 6.2; zu-ZA; rv:1.9.1.20) Gecko/2013-12-19 01:43:09 Firefox/3.6.18
+545,783,61,"['lactose intolerant', 'vegan']",Victoria,"Mozilla/5.0 (Windows NT 6.2) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/53.0.878.0 Safari/531.0"
+548,134,62,"['vegan', 'vegetarian']",Australian Capital Territory,"Mozilla/5.0 (Windows NT 6.2) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/36.0.824.0 Safari/533.2"
+765,118,88,['lactose intolerant'],Northern Territory,"Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/54.0.837.0 Safari/536.2"
+871,634,101,['none'],South Australia,"Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/532.14.6 (KHTML, like Gecko) Version/5.0.1 Safari/532.14.6"
+915,693,105,"['none', 'none']",New South Wales,"Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/532.32.1 (KHTML, like Gecko) Version/4.0.4 Safari/532.32.1"
+522,637,58,[],New South Wales,"Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/533.15.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.15.1"
+985,195,115,['none'],Victoria,"Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/533.43.6 (KHTML, like Gecko) Version/5.0.1 Safari/533.43.6"
+140,973,15,['celiac'],Australian Capital Territory,"Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/533.47.2 (KHTML, like Gecko) Version/4.0 Safari/533.47.2"
+979,431,114,[],Northern Territory,"Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/531.5.3 (KHTML, like Gecko) Version/5.0.4 Safari/531.5.3"
+784,227,90,['lactose intolerant'],Northern Territory,"Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/533.17.2 (KHTML, like Gecko) Version/5.0.4 Safari/533.17.2"
+485,354,54,['lactose intolerant'],Northern Territory,"Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/533.3.4 (KHTML, like Gecko) Version/5.0 Safari/533.3.4"
+394,631,45,"['nut allergy', 'vegan']",Victoria,"Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/534.19.4 (KHTML, like Gecko) Version/4.0.1 Safari/534.19.4"
+742,52,85,['celiac'],South Australia,"Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/534.28.7 (KHTML, like Gecko) Version/5.0 Safari/534.28.7"
+404,728,46,"['vegan', 'celiac']",South Australia,"Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/534.31.6 (KHTML, like Gecko) Version/5.1 Safari/534.31.6"
+290,348,31,"['vegetarian', 'celiac']",Victoria,"Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/534.5.3 (KHTML, like Gecko) Version/5.1 Safari/534.5.3"
+648,37,74,[],Australian Capital Territory,"Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/534.7.5 (KHTML, like Gecko) Version/5.0.2 Safari/534.7.5"
+897,718,103,"['celiac', 'vegan']",Australian Capital Territory,"Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/535.1.7 (KHTML, like Gecko) Version/4.0 Safari/535.1.7"
+882,724,102,"['none', 'celiac']",Victoria,"Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/535.23.6 (KHTML, like Gecko) Version/5.0.3 Safari/535.23.6"
+461,927,51,['none'],Victoria,"Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/535.7.4 (KHTML, like Gecko) Version/5.0 Safari/535.7.4"
+136,467,15,[],Tasmania,"Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/531.17.1 (KHTML, like Gecko) Version/4.1 Safari/531.17.1"
+879,571,102,[],New South Wales,"Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/531.45.7 (KHTML, like Gecko) Version/5.1 Safari/531.45.7"
+456,517,51,['nut allergy'],Victoria,"Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/531.5.7 (KHTML, like Gecko) Version/4.1 Safari/531.5.7"
+320,483,34,[],Queensland,"Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/532.16.3 (KHTML, like Gecko) Version/4.0.2 Safari/532.16.3"
+570,824,64,[],Tasmania,"Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/532.8.3 (KHTML, like Gecko) Version/5.0.2 Safari/532.8.3"
+32,286,5,['none'],Tasmania,"Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/533.27.6 (KHTML, like Gecko) Version/5.0.4 Safari/533.27.6"
+592,271,68,[],New South Wales,"Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/533.31.2 (KHTML, like Gecko) Version/5.0.4 Safari/533.31.2"
+977,964,113,['lactose intolerant'],Queensland,"Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/533.47.3 (KHTML, like Gecko) Version/5.0 Safari/533.47.3"
+155,962,17,"['celiac', 'vegan']",New South Wales,"Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/534.27.5 (KHTML, like Gecko) Version/4.0 Safari/534.27.5"
+895,643,103,[],Victoria,"Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/535.10.5 (KHTML, like Gecko) Version/5.0.3 Safari/535.10.5"
+772,770,88,['none'],Queensland,"Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/535.22.5 (KHTML, like Gecko) Version/5.1 Safari/535.22.5"
+213,638,24,['none'],Queensland,"Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/535.17.1 (KHTML, like Gecko) Version/4.0.4 Safari/535.17.1"
+672,504,77,[],Australian Capital Territory,"Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/535.45.3 (KHTML, like Gecko) Version/5.0.2 Safari/535.45.3"
+578,14,66,['lactose intolerant'],Australian Capital Territory,"Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/531.41.6 (KHTML, like Gecko) Version/4.1 Safari/531.41.6"
+774,915,88,"['lactose intolerant', 'vegan']",Queensland,"Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/531.42.7 (KHTML, like Gecko) Version/5.0.2 Safari/531.42.7"
+292,430,31,['celiac'],New South Wales,"Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/531.8.7 (KHTML, like Gecko) Version/4.0 Safari/531.8.7"
+636,203,73,"['nut allergy', 'none']",New South Wales,"Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/532.19.1 (KHTML, like Gecko) Version/5.1 Safari/532.19.1"
+294,463,31,"['celiac', 'vegetarian']",Tasmania,"Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/532.47.1 (KHTML, like Gecko) Version/4.0.5 Safari/532.47.1"
+54,428,7,[],New South Wales,"Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/534.18.4 (KHTML, like Gecko) Version/4.0 Safari/534.18.4"
+770,422,88,[],Queensland,"Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/534.25.1 (KHTML, like Gecko) Version/5.0 Safari/534.25.1"
+540,57,61,[],South Australia,"Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/534.28.1 (KHTML, like Gecko) Version/4.0.3 Safari/534.28.1"
+669,270,77,[],Australian Capital Territory,"Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/535.35.2 (KHTML, like Gecko) Version/5.1 Safari/535.35.2"
+813,207,95,['vegetarian'],Queensland,"Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/532.41.3 (KHTML, like Gecko) Version/4.0 Safari/532.41.3"
+5,782,1,"['celiac', 'none']",New South Wales,"Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/534.13.2 (KHTML, like Gecko) Version/4.0.4 Safari/534.13.2"
+921,259,106,['vegetarian'],Northern Territory,"Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/534.5.5 (KHTML, like Gecko) Version/5.1 Safari/534.5.5"
+683,551,78,[],Victoria,"Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/535.24.4 (KHTML, like Gecko) Version/4.0 Safari/535.24.4"
+802,721,93,['celiac'],Queensland,"Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/531.12.7 (KHTML, like Gecko) Version/4.0.5 Safari/531.12.7"
+211,523,24,"['celiac', 'celiac']",Western Australia,"Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/532.9.5 (KHTML, like Gecko) Version/5.1 Safari/532.9.5"
+527,360,59,"['celiac', 'lactose intolerant']",Victoria,"Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/533.3.1 (KHTML, like Gecko) Version/4.0.2 Safari/533.3.1"
+836,179,98,[],Australian Capital Territory,"Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/533.43.2 (KHTML, like Gecko) Version/4.0.3 Safari/533.43.2"
+428,846,48,"['lactose intolerant', 'celiac']",Australian Capital Territory,"Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/531.10.4 (KHTML, like Gecko) Version/5.1 Safari/531.10.4"
+340,17,38,['lactose intolerant'],Queensland,"Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/531.16.7 (KHTML, like Gecko) Version/4.0.4 Safari/531.16.7"
+991,935,115,[],Northern Territory,"Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/532.14.5 (KHTML, like Gecko) Version/4.0 Safari/532.14.5"
+492,155,55,"['vegetarian', 'none']",Australian Capital Territory,"Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/532.37.5 (KHTML, like Gecko) Version/4.0 Safari/532.37.5"
+992,968,115,[],Western Australia,"Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/533.9.5 (KHTML, like Gecko) Version/5.0.1 Safari/533.9.5"
+547,80,62,['vegan'],Australian Capital Territory,"Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/531.28.5 (KHTML, like Gecko) Version/5.0.2 Safari/531.28.5"
+176,546,20,"['celiac', 'celiac']",New South Wales,"Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/533.1.5 (KHTML, like Gecko) Version/4.0.1 Safari/533.1.5"
+934,453,108,[],New South Wales,"Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/533.47.7 (KHTML, like Gecko) Version/4.1 Safari/533.47.7"
+695,508,79,['vegan'],Tasmania,"Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/534.8.5 (KHTML, like Gecko) Version/4.0 Safari/534.8.5"
+426,552,48,[],South Australia,"Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/535.26.2 (KHTML, like Gecko) Version/4.1 Safari/535.26.2"
+536,651,60,['none'],Tasmania,"Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/531.34.4 (KHTML, like Gecko) Version/5.0 Safari/531.34.4"
+534,555,60,['lactose intolerant'],Australian Capital Territory,"Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/532.29.7 (KHTML, like Gecko) Version/4.1 Safari/532.29.7"
+763,745,87,"['celiac', 'vegan']",South Australia,"Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/531.2.6 (KHTML, like Gecko) Version/4.0.4 Safari/531.2.6"
+286,792,30,['nut allergy'],Western Australia,"Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/532.28.2 (KHTML, like Gecko) Version/5.1 Safari/532.28.2"
+755,148,86,[],New South Wales,"Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/531.41.4 (KHTML, like Gecko) Version/4.0 Safari/531.41.4"
+209,459,24,['none'],New South Wales,"Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/532.25.7 (KHTML, like Gecko) Version/5.0.5 Safari/532.25.7"
+501,335,56,"['none', 'vegetarian']",Tasmania,Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/2010-08-26 17:25:22 Firefox/3.6.12
+167,750,19,[],Western Australia,Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/2011-11-14 00:50:53 Firefox/7.0
+50,56,7,"['celiac', 'vegan']",South Australia,Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/2013-07-15 04:11:46 Firefox/3.8
+927,216,107,"['lactose intolerant', 'nut allergy']",Queensland,Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/2013-08-15 12:46:35 Firefox/5.0
+305,839,32,[],New South Wales,Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/2014-04-22 23:49:59 Firefox/3.8
+48,891,6,"['celiac', 'none']",South Australia,Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/2015-05-26 22:11:51 Firefox/3.6.2
+706,478,81,"['vegetarian', 'celiac']",Northern Territory,Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/2015-09-22 19:19:19 Firefox/3.8
+506,159,57,"['vegetarian', 'none']",New South Wales,Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/2018-03-26 15:06:57 Firefox/6.0
+624,34,71,"['lactose intolerant', 'vegetarian']",Australian Capital Territory,Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/2011-06-12 16:55:15 Firefox/3.8
+299,993,31,"['celiac', 'nut allergy']",Northern Territory,Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/2012-10-21 10:49:12 Firefox/14.0
+144,43,17,"['none', 'vegan']",New South Wales,Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/2013-07-15 03:58:17 Firefox/3.6.12
+944,19,109,[],Queensland,Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/2013-09-22 04:04:29 Firefox/3.8
+232,516,26,['vegan'],Australian Capital Territory,Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/2014-09-15 00:27:44 Firefox/3.6.20
+185,537,21,"['vegetarian', 'lactose intolerant']",Tasmania,Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/2015-02-02 07:27:10 Firefox/3.6.11
+673,545,77,"['celiac', 'vegan']",South Australia,Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/2017-10-18 11:44:33 Firefox/3.8
+430,111,49,[],Northern Territory,Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/2017-12-23 15:35:59 Firefox/3.6.12
+295,499,31,[],Northern Territory,Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/2018-02-07 17:02:46 Firefox/8.0
+816,670,95,"['vegetarian', 'vegetarian']",Northern Territory,Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/2019-11-04 22:48:46 Firefox/6.0
+782,86,90,[],New South Wales,Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/2020-01-27 21:14:21 Firefox/3.8
+689,225,79,"['vegan', 'none']",Queensland,Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/2010-08-04 11:04:59 Firefox/3.8
+445,400,50,[],Queensland,Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/2011-01-30 03:53:51 Firefox/3.6.18
+112,414,12,"['vegan', 'vegan']",New South Wales,Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/2011-11-26 22:41:00 Firefox/11.0
+982,813,114,[],Northern Territory,Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/2012-10-03 19:16:23 Firefox/3.8
+57,932,7,"['lactose intolerant', 'vegan']",Tasmania,Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/2014-12-01 19:35:26 Firefox/3.6.10
+849,104,99,['nut allergy'],South Australia,Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/2015-08-04 22:47:23 Firefox/8.0
+516,176,58,"['none', 'celiac']",New South Wales,Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/2015-12-19 16:11:40 Firefox/11.0
+533,119,60,[],Victoria,Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/2018-03-16 23:50:06 Firefox/15.0
+271,541,29,['nut allergy'],New South Wales,Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/2018-09-30 11:15:02 Firefox/3.6.18
+157,300,18,['lactose intolerant'],Australian Capital Territory,Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/2018-11-23 13:30:55 Firefox/3.6.13
+78,734,9,['vegetarian'],Australian Capital Territory,Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/2020-05-09 23:41:16 Firefox/3.6.4
+150,759,17,[],Queensland,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/20.0.835.0 Safari/531.0"
+73,165,9,"['none', 'vegan']",Australian Capital Territory,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/37.0.841.0 Safari/531.0"
+759,265,87,"['celiac', 'lactose intolerant']",Queensland,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/18.0.841.0 Safari/531.2"
+172,282,20,"['vegan', 'none']",Queensland,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/57.0.848.0 Safari/531.2"
+839,344,98,['none'],New South Wales,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/14.0.802.0 Safari/532.0"
+80,992,9,[],Queensland,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/18.0.801.0 Safari/532.0"
+138,698,15,[],Australian Capital Territory,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/32.0.867.0 Safari/532.0"
+385,785,44,"['nut allergy', 'celiac']",Australian Capital Territory,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/34.0.821.0 Safari/532.2"
+752,954,85,[],South Australia,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/37.0.878.0 Safari/532.2"
+414,730,47,[],Northern Territory,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/33.0.855.0 Safari/533.1"
+581,667,66,"['none', 'vegetarian']",Queensland,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/40.0.836.0 Safari/534.0"
+791,608,91,['vegetarian'],Western Australia,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/29.0.845.0 Safari/534.1"
+184,534,21,[],Australian Capital Territory,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/56.0.810.0 Safari/534.2"
+10,130,2,[],Northern Territory,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/29.0.827.0 Safari/535.0"
+75,446,9,[],Australian Capital Territory,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/17.0.892.0 Safari/535.1"
+146,407,17,[],New South Wales,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/25.0.841.0 Safari/535.1"
+95,49,11,['vegetarian'],South Australia,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/18.0.858.0 Safari/535.2"
+745,306,85,['nut allergy'],New South Wales,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/49.0.823.0 Safari/535.2"
+638,255,73,['vegetarian'],Australian Capital Territory,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/48.0.852.0 Safari/536.1"
+118,199,13,"['lactose intolerant', 'nut allergy']",Western Australia,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/2017-09-04 16:04:11 Firefox/3.8
+493,399,55,['nut allergy'],Queensland,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/2017-09-05 06:58:40 Firefox/3.6.17
+599,736,68,"['lactose intolerant', 'lactose intolerant']",Victoria,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/2017-09-12 11:23:50 Firefox/3.8
+692,334,79,['none'],Victoria,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/2011-09-25 11:11:59 Firefox/14.0
+667,240,77,['celiac'],Australian Capital Territory,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/2012-04-23 09:08:24 Firefox/3.8
+823,297,96,"['nut allergy', 'vegetarian']",Northern Territory,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/2012-05-08 05:15:47 Firefox/3.8
+409,44,47,"['nut allergy', 'vegan']",Queensland,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/2018-06-11 05:50:12 Firefox/3.8
+46,773,6,[],South Australia,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/2018-08-10 06:56:33 Firefox/4.0
+37,614,5,"['celiac', 'none']",Tasmania,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/2019-01-10 09:43:11 Firefox/8.0
+89,733,10,[],Northern Territory,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/2020-09-06 12:25:33 Firefox/3.6.17
+100,659,11,"['none', 'none']",New South Wales,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/2011-05-24 02:02:45 Firefox/12.0
+661,153,76,"['vegan', 'vegetarian']",Victoria,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/2012-12-11 15:33:22 Firefox/3.6.17
+947,451,109,['vegetarian'],Western Australia,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/2014-05-20 14:06:54 Firefox/3.8
+972,629,113,"['none', 'lactose intolerant']",Queensland,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/2017-08-20 00:45:24 Firefox/3.8
+678,230,78,[],Victoria,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/2018-01-12 15:38:48 Firefox/3.8
+235,764,26,"['none', 'lactose intolerant']",Queensland,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/2018-10-15 21:21:32 Firefox/3.6.6
+124,141,14,"['celiac', 'celiac']",South Australia,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/2020-03-01 09:28:54 Firefox/3.8
+227,7,26,[],Western Australia,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/2020-05-15 07:37:55 Firefox/3.8
+148,493,17,['none'],South Australia,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/16.0.870.0 Safari/531.0"
+532,53,60,[],Northern Territory,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/38.0.887.0 Safari/532.0"
+187,208,22,[],South Australia,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/17.0.811.0 Safari/532.1"
+28,24,4,[],South Australia,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/24.0.814.0 Safari/532.1"
+845,628,98,"['nut allergy', 'lactose intolerant']",Victoria,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/37.0.809.0 Safari/533.2"
+392,375,45,[],South Australia,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/57.0.881.0 Safari/533.2"
+603,239,69,"['lactose intolerant', 'vegan']",Tasmania,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/59.0.831.0 Safari/533.2"
+452,944,50,['vegetarian'],Australian Capital Territory,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/25.0.821.0 Safari/534.0"
+937,751,108,['vegetarian'],Northern Territory,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/27.0.873.0 Safari/534.2"
+815,520,95,['celiac'],Australian Capital Territory,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/51.0.882.0 Safari/534.2"
+376,563,43,[],Northern Territory,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/59.0.860.0 Safari/535.0"
+365,952,41,['celiac'],Western Australia,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/18.0.873.0 Safari/535.1"
+353,161,40,"['nut allergy', 'lactose intolerant']",New South Wales,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/49.0.867.0 Safari/535.2"
+593,281,68,['celiac'],Western Australia,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/24.0.882.0 Safari/536.2"
+433,655,49,[],New South Wales,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/55.0.836.0 Safari/536.2"
+863,456,100,['nut allergy'],Australian Capital Territory,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/61.0.847.0 Safari/536.2"
+514,876,57,['lactose intolerant'],Tasmania,Opera/8.11.(Windows NT 5.01; cmn-TW) Presto/2.9.178 Version/12.00
+620,418,70,[],New South Wales,Opera/8.11.(X11; Linux x86_64; szl-PL) Presto/2.9.176 Version/10.00
+903,445,104,"['none', 'lactose intolerant']",Northern Territory,Opera/8.12.(X11; Linux i686; ug-CN) Presto/2.9.170 Version/11.00
+449,788,50,"['lactose intolerant', 'vegan']",South Australia,Opera/8.13.(Windows NT 5.01; mn-MN) Presto/2.9.166 Version/12.00
+429,890,48,['celiac'],Western Australia,Opera/8.13.(X11; Linux i686; om-ET) Presto/2.9.175 Version/10.00
+225,797,25,"['vegetarian', 'lactose intolerant']",Tasmania,Opera/8.14.(X11; Linux i686; br-FR) Presto/2.9.187 Version/11.00
+152,852,17,[],South Australia,Opera/8.15.(Windows 95; ast-ES) Presto/2.9.175 Version/10.00
+541,83,61,[],Western Australia,Opera/8.15.(Windows 98; hak-TW) Presto/2.9.166 Version/11.00
+946,436,109,[],Western Australia,Opera/8.17.(Windows 98; st-ZA) Presto/2.9.166 Version/10.00
+329,893,35,['vegan'],New South Wales,Opera/8.17.(X11; Linux i686; bg-BG) Presto/2.9.185 Version/11.00
+796,853,92,[],South Australia,Opera/8.18.(X11; Linux i686; km-KH) Presto/2.9.184 Version/11.00
+780,955,89,['celiac'],Queensland,Opera/8.18.(X11; Linux i686; lt-LT) Presto/2.9.187 Version/10.00
+810,889,94,[],Victoria,Opera/8.19.(Windows NT 5.01; cmn-TW) Presto/2.9.167 Version/11.00
+869,494,101,[],Victoria,Opera/8.20.(X11; Linux i686; cmn-TW) Presto/2.9.167 Version/11.00
+684,838,78,['none'],Victoria,Opera/8.21.(Windows NT 5.01; mt-MT) Presto/2.9.162 Version/12.00
+709,752,81,['lactose intolerant'],Tasmania,Opera/8.21.(X11; Linux i686; ht-HT) Presto/2.9.185 Version/11.00
+384,475,44,"['none', 'vegetarian']",Western Australia,Opera/8.21.(X11; Linux i686; shs-CA) Presto/2.9.185 Version/12.00
+381,394,44,"['none', 'vegetarian']",New South Wales,Opera/8.23.(X11; Linux x86_64; apn-IN) Presto/2.9.172 Version/10.00
+737,196,84,['lactose intolerant'],Northern Territory,Opera/8.23.(X11; Linux x86_64; rw-RW) Presto/2.9.171 Version/11.00
+520,513,58,['nut allergy'],Tasmania,Opera/8.24.(X11; Linux i686; tl-PH) Presto/2.9.172 Version/11.00
+65,548,8,['none'],Australian Capital Territory,Opera/8.25.(X11; Linux x86_64; mai-IN) Presto/2.9.177 Version/12.00
+995,328,116,[],Queensland,Opera/8.27.(Windows NT 6.1; ti-ET) Presto/2.9.165 Version/11.00
+958,804,110,"['celiac', 'celiac']",Western Australia,Opera/8.27.(X11; Linux i686; apn-IN) Presto/2.9.164 Version/12.00
+19,261,3,['none'],Queensland,Opera/8.28.(Windows NT 5.2; pt-PT) Presto/2.9.171 Version/10.00
+935,579,108,"['none', 'vegan']",Australian Capital Territory,Opera/8.28.(X11; Linux x86_64; doi-IN) Presto/2.9.188 Version/11.00
+241,393,27,"['celiac', 'vegetarian']",Northern Territory,Opera/8.31.(Windows NT 5.2; mag-IN) Presto/2.9.184 Version/10.00
+442,191,50,"['vegetarian', 'nut allergy']",New South Wales,Opera/8.31.(X11; Linux x86_64; apn-IN) Presto/2.9.170 Version/11.00
+851,236,99,['vegan'],Queensland,Opera/8.32.(X11; Linux i686; eo-US) Presto/2.9.187 Version/12.00
+521,562,58,['vegetarian'],South Australia,Opera/8.33.(Windows NT 5.0; id-ID) Presto/2.9.162 Version/10.00
+400,966,45,"['vegetarian', 'lactose intolerant']",Northern Territory,Opera/8.34.(Windows 95; csb-PL) Presto/2.9.164 Version/11.00
+306,990,32,"['nut allergy', 'vegetarian']",Queensland,Opera/8.35.(Windows NT 5.01; xh-ZA) Presto/2.9.183 Version/11.00
+846,741,98,['nut allergy'],South Australia,Opera/8.35.(Windows NT 6.2; apn-IN) Presto/2.9.182 Version/10.00
+266,75,29,['celiac'],Western Australia,Opera/8.36.(Windows 98; crh-UA) Presto/2.9.175 Version/10.00
+165,396,19,['lactose intolerant'],South Australia,Opera/8.36.(X11; Linux i686; lt-LT) Presto/2.9.165 Version/10.00
+201,585,23,"['nut allergy', 'none']",South Australia,Opera/8.37.(X11; Linux i686; fr-LU) Presto/2.9.171 Version/12.00
+519,338,58,[],Tasmania,Opera/8.40.(X11; Linux x86_64; ga-IE) Presto/2.9.163 Version/10.00
+710,837,81,['vegetarian'],Queensland,Opera/8.40.(X11; Linux x86_64; sc-IT) Presto/2.9.185 Version/10.00
+121,639,13,[],Queensland,Opera/8.41.(X11; Linux i686; kk-KZ) Presto/2.9.167 Version/12.00
+511,632,57,[],Queensland,Opera/8.42.(X11; Linux i686; nan-TW) Presto/2.9.165 Version/12.00
+44,406,6,"['nut allergy', 'vegetarian']",Australian Capital Territory,Opera/8.42.(X11; Linux x86_64; st-ZA) Presto/2.9.188 Version/11.00
+407,884,46,[],New South Wales,Opera/8.44.(Windows 98; Win 9x 4.90; ml-IN) Presto/2.9.175 Version/12.00
+712,38,82,[],Queensland,Opera/8.45.(Windows 95; cmn-TW) Presto/2.9.162 Version/11.00
+964,223,112,[],New South Wales,Opera/8.47.(X11; Linux i686; km-KH) Presto/2.9.170 Version/12.00
+284,366,30,"['none', 'nut allergy']",Australian Capital Territory,Opera/8.47.(X11; Linux x86_64; fi-FI) Presto/2.9.178 Version/11.00
+132,135,15,"['none', 'nut allergy']",New South Wales,Opera/8.47.(X11; Linux x86_64; ja-JP) Presto/2.9.179 Version/12.00
+686,0,79,"['celiac', 'vegan']",Tasmania,Opera/8.48.(Windows NT 5.01; si-LK) Presto/2.9.169 Version/12.00
+436,760,49,[],Queensland,Opera/8.49.(X11; Linux i686; ti-ET) Presto/2.9.185 Version/11.00
+571,95,65,['celiac'],Western Australia,Opera/8.49.(X11; Linux x86_64; oc-FR) Presto/2.9.185 Version/12.00
+639,370,73,['none'],Australian Capital Territory,Opera/8.53.(Windows 98; gu-IN) Presto/2.9.174 Version/11.00
+558,144,63,"['vegetarian', 'none']",Northern Territory,Opera/8.55.(Windows 95; ak-GH) Presto/2.9.184 Version/10.00
+973,833,113,[],Queensland,Opera/8.55.(X11; Linux i686; ml-IN) Presto/2.9.188 Version/10.00
+619,402,70,['lactose intolerant'],Tasmania,Opera/8.55.(X11; Linux x86_64; id-ID) Presto/2.9.166 Version/12.00
+405,763,46,"['celiac', 'vegan']",Queensland,Opera/8.56.(Windows NT 4.0; hne-IN) Presto/2.9.175 Version/10.00
+368,340,42,['lactose intolerant'],Northern Territory,Opera/8.56.(X11; Linux i686; cs-CZ) Presto/2.9.165 Version/10.00
+842,574,98,['nut allergy'],Tasmania,Opera/8.56.(X11; Linux i686; de-BE) Presto/2.9.190 Version/11.00
+264,27,29,"['vegetarian', 'lactose intolerant']",Western Australia,Opera/8.56.(X11; Linux x86_64; om-ET) Presto/2.9.164 Version/11.00
+524,92,59,[],Northern Territory,Opera/8.56.(X11; Linux x86_64; quz-PE) Presto/2.9.184 Version/12.00
+402,97,46,['celiac'],South Australia,Opera/8.58.(Windows NT 4.0; gv-GB) Presto/2.9.180 Version/10.00
+43,374,6,[],New South Wales,Opera/8.59.(Windows NT 5.2; da-DK) Presto/2.9.180 Version/11.00
+634,986,72,[],South Australia,Opera/8.59.(X11; Linux i686; sat-IN) Presto/2.9.169 Version/11.00
+872,767,101,[],Victoria,Opera/8.59.(X11; Linux x86_64; cy-GB) Presto/2.9.163 Version/12.00
+268,369,29,"['vegetarian', 'none']",Tasmania,Opera/8.59.(X11; Linux x86_64; wae-CH) Presto/2.9.189 Version/12.00
+881,702,102,[],Queensland,Opera/8.60.(Windows NT 5.1; ckb-IQ) Presto/2.9.174 Version/10.00
+288,215,31,"['celiac', 'none']",Western Australia,Opera/8.60.(Windows NT 5.2; ks-IN) Presto/2.9.180 Version/12.00
+766,139,88,['lactose intolerant'],Australian Capital Territory,Opera/8.63.(Windows NT 5.1; gl-ES) Presto/2.9.166 Version/11.00
+555,725,62,"['vegan', 'celiac']",Queensland,Opera/8.63.(Windows NT 6.0; nso-ZA) Presto/2.9.188 Version/11.00
+18,226,3,['lactose intolerant'],New South Wales,Opera/8.63.(Windows NT 6.2; vi-VN) Presto/2.9.182 Version/12.00
+256,564,28,[],Western Australia,Opera/8.63.(X11; Linux x86_64; el-CY) Presto/2.9.168 Version/11.00
+282,301,30,['lactose intolerant'],South Australia,Opera/8.64.(Windows 98; mi-NZ) Presto/2.9.187 Version/11.00
+656,267,75,['vegetarian'],Queensland,Opera/8.64.(X11; Linux i686; sa-IN) Presto/2.9.161 Version/11.00
+911,391,105,['nut allergy'],New South Wales,Opera/8.64.(X11; Linux x86_64; es-MX) Presto/2.9.174 Version/10.00
+293,432,31,['nut allergy'],South Australia,Opera/8.65.(X11; Linux x86_64; nl-BE) Presto/2.9.167 Version/10.00
+559,324,63,"['none', 'vegetarian']",Western Australia,Opera/8.66.(X11; Linux x86_64; quz-PE) Presto/2.9.184 Version/10.00
+718,633,82,"['lactose intolerant', 'none']",Victoria,Opera/8.68.(X11; Linux i686; ga-IE) Presto/2.9.189 Version/11.00
+476,490,53,[],Australian Capital Territory,Opera/8.69.(Windows 98; eu-FR) Presto/2.9.161 Version/10.00
+255,482,28,"['vegan', 'lactose intolerant']",Northern Territory,Opera/8.69.(X11; Linux x86_64; gl-ES) Presto/2.9.161 Version/12.00
+860,142,100,['nut allergy'],Northern Territory,Opera/8.69.(X11; Linux x86_64; my-MM) Presto/2.9.164 Version/11.00
+481,982,53,[],Queensland,Opera/8.71.(Windows 98; gu-IN) Presto/2.9.173 Version/10.00
+313,559,33,[],New South Wales,Opera/8.71.(X11; Linux i686; fo-FO) Presto/2.9.164 Version/10.00
+194,713,22,"['vegetarian', 'vegetarian']",Western Australia,Opera/8.72.(Windows NT 6.1; en-HK) Presto/2.9.169 Version/11.00
+257,589,28,[],Northern Territory,Opera/8.73.(X11; Linux i686; hu-HU) Presto/2.9.174 Version/12.00
+963,756,111,[],Tasmania,Opera/8.75.(X11; Linux i686; da-DK) Presto/2.9.162 Version/11.00
+311,461,33,"['lactose intolerant', 'vegetarian']",Western Australia,Opera/8.76.(Windows NT 5.2; crh-UA) Presto/2.9.160 Version/11.00
+538,985,60,['vegan'],Victoria,Opera/8.77.(Windows NT 5.0; nl-BE) Presto/2.9.176 Version/10.00
+576,906,65,['vegan'],Queensland,Opera/8.78.(Windows NT 6.1; gez-ET) Presto/2.9.185 Version/11.00
+874,819,101,['nut allergy'],Queensland,Opera/8.78.(X11; Linux x86_64; quz-PE) Presto/2.9.190 Version/12.00
+594,318,68,['celiac'],Northern Territory,Opera/8.79.(X11; Linux x86_64; iu-CA) Presto/2.9.179 Version/11.00
+732,575,83,"['celiac', 'vegan']",New South Wales,Opera/8.80.(X11; Linux x86_64; niu-NU) Presto/2.9.177 Version/11.00
+785,257,90,[],Tasmania,Opera/8.82.(X11; Linux i686; zh-CN) Presto/2.9.163 Version/12.00
+450,847,50,['lactose intolerant'],Queensland,Opera/8.83.(X11; Linux x86_64; eo-US) Presto/2.9.175 Version/12.00
+166,624,19,"['celiac', 'none']",Australian Capital Territory,Opera/8.84.(X11; Linux x86_64; fr-FR) Presto/2.9.177 Version/12.00
+134,287,15,['vegetarian'],Australian Capital Territory,Opera/8.85.(X11; Linux i686; ko-KR) Presto/2.9.162 Version/10.00
+870,602,101,['none'],Queensland,Opera/8.87.(Windows 98; Win 9x 4.90; gv-GB) Presto/2.9.172 Version/12.00
+565,252,64,['lactose intolerant'],Tasmania,Opera/8.87.(Windows NT 5.0; sc-IT) Presto/2.9.166 Version/11.00
+504,841,56,[],Victoria,Opera/8.87.(X11; Linux x86_64; ast-ES) Presto/2.9.181 Version/11.00
+304,621,32,"['vegetarian', 'none']",New South Wales,Opera/8.88.(X11; Linux x86_64; km-KH) Presto/2.9.174 Version/11.00
+917,949,105,['lactose intolerant'],Victoria,Opera/8.88.(X11; Linux x86_64; sat-IN) Presto/2.9.181 Version/11.00
+41,322,6,"['lactose intolerant', 'nut allergy']",Queensland,Opera/8.89.(Windows NT 6.1; ht-HT) Presto/2.9.190 Version/11.00
+831,586,97,"['vegan', 'nut allergy']",Tasmania,Opera/8.89.(Windows NT 6.2; fur-IT) Presto/2.9.163 Version/11.00
+605,358,69,['celiac'],Australian Capital Territory,Opera/8.91.(X11; Linux x86_64; ko-KR) Presto/2.9.167 Version/11.00
+641,447,73,['vegetarian'],Northern Territory,Opera/8.93.(X11; Linux i686; az-AZ) Presto/2.9.175 Version/11.00
+238,126,27,[],Tasmania,Opera/8.94.(X11; Linux i686; lzh-TW) Presto/2.9.172 Version/10.00
+800,309,93,['nut allergy'],Northern Territory,Opera/8.94.(X11; Linux x86_64; hsb-DE) Presto/2.9.160 Version/10.00
+251,63,28,[],Tasmania,Opera/8.95.(Windows NT 4.0; et-EE) Presto/2.9.186 Version/12.00
+675,79,78,['vegan'],Western Australia,Opera/8.95.(Windows NT 6.2; cmn-TW) Presto/2.9.178 Version/11.00
+102,840,11,"['celiac', 'nut allergy']",Western Australia,Opera/8.96.(X11; Linux x86_64; kn-IN) Presto/2.9.163 Version/10.00
+371,874,42,[],Australian Capital Territory,Opera/8.99.(X11; Linux x86_64; ps-AF) Presto/2.9.173 Version/12.00
+775,16,89,['lactose intolerant'],Tasmania,Opera/9.10.(X11; Linux i686; bo-CN) Presto/2.9.172 Version/12.00
+651,591,74,['lactose intolerant'],Victoria,Opera/9.10.(X11; Linux x86_64; lg-UG) Presto/2.9.166 Version/10.00
+644,618,73,"['celiac', 'vegan']",New South Wales,Opera/9.13.(Windows NT 5.1; ku-TR) Presto/2.9.182 Version/11.00
+495,729,55,[],Western Australia,Opera/9.14.(X11; Linux x86_64; niu-NU) Presto/2.9.176 Version/11.00
+575,879,65,['vegan'],Northern Territory,Opera/9.16.(X11; Linux i686; ti-ET) Presto/2.9.164 Version/10.00
+29,444,4,"['nut allergy', 'lactose intolerant']",Queensland,Opera/9.17.(X11; Linux x86_64; tl-PH) Presto/2.9.188 Version/10.00
+388,158,45,['vegan'],Northern Territory,Opera/9.19.(X11; Linux x86_64; ig-NG) Presto/2.9.189 Version/10.00
+417,10,48,"['nut allergy', 'lactose intolerant']",Western Australia,Opera/9.20.(X11; Linux i686; ur-IN) Presto/2.9.188 Version/11.00
+585,703,67,['lactose intolerant'],New South Wales,Opera/9.20.(X11; Linux x86_64; mhr-RU) Presto/2.9.168 Version/10.00
+931,866,107,[],Victoria,Opera/9.21.(X11; Linux i686; be-BY) Presto/2.9.160 Version/10.00
+728,524,83,['lactose intolerant'],Tasmania,Opera/9.22.(Windows NT 6.2; os-RU) Presto/2.9.180 Version/11.00
+553,539,62,[],Western Australia,Opera/9.22.(X11; Linux i686; fi-FI) Presto/2.9.184 Version/10.00
+928,458,107,[],Western Australia,Opera/9.23.(Windows NT 5.2; fy-DE) Presto/2.9.181 Version/10.00
+462,241,52,['celiac'],Tasmania,Opera/9.23.(Windows NT 6.1; ln-CD) Presto/2.9.184 Version/11.00
+674,925,77,['nut allergy'],Northern Territory,Opera/9.23.(X11; Linux i686; lg-UG) Presto/2.9.174 Version/11.00
+633,704,72,['none'],New South Wales,Opera/9.25.(Windows NT 6.1; mk-MK) Presto/2.9.170 Version/12.00
+175,392,20,"['none', 'nut allergy']",Tasmania,Opera/9.25.(X11; Linux x86_64; se-NO) Presto/2.9.177 Version/10.00
+617,331,70,[],Australian Capital Territory,Opera/9.25.(X11; Linux x86_64; sk-SK) Presto/2.9.182 Version/12.00
+518,310,58,"['nut allergy', 'lactose intolerant']",Western Australia,Opera/9.26.(Windows NT 6.1; ss-ZA) Presto/2.9.160 Version/11.00
+79,791,9,['vegan'],Northern Territory,Opera/9.28.(Windows NT 5.01; ml-IN) Presto/2.9.162 Version/12.00
+707,535,81,[],Australian Capital Territory,Opera/9.31.(X11; Linux i686; as-IN) Presto/2.9.164 Version/11.00
+908,786,104,['nut allergy'],South Australia,Opera/9.31.(X11; Linux i686; pl-PL) Presto/2.9.163 Version/10.00
+739,963,84,['vegetarian'],Australian Capital Territory,Opera/9.32.(Windows CE; lzh-TW) Presto/2.9.171 Version/11.00
+470,825,52,"['vegan', 'celiac']",Tasmania,Opera/9.32.(Windows NT 5.01; mai-IN) Presto/2.9.187 Version/10.00
+186,714,21,[],Australian Capital Territory,Opera/9.34.(X11; Linux x86_64; fur-IT) Presto/2.9.168 Version/11.00
+90,737,10,['lactose intolerant'],Western Australia,Opera/9.34.(X11; Linux x86_64; ln-CD) Presto/2.9.187 Version/10.00
+386,823,44,[],Tasmania,Opera/9.37.(X11; Linux i686; fo-FO) Presto/2.9.189 Version/12.00
+289,260,31,[],Western Australia,Opera/9.37.(X11; Linux i686; sq-ML) Presto/2.9.168 Version/10.00
+479,815,53,['nut allergy'],South Australia,Opera/9.39.(Windows NT 6.1; sd-IN) Presto/2.9.189 Version/10.00
+509,390,57,['lactose intolerant'],Australian Capital Territory,Opera/9.39.(Windows NT 6.2; crh-UA) Presto/2.9.165 Version/12.00
+502,680,56,"['nut allergy', 'celiac']",Australian Capital Territory,Opera/9.40.(X11; Linux i686; cy-GB) Presto/2.9.172 Version/10.00
+68,696,8,['vegetarian'],Northern Territory,Opera/9.40.(X11; Linux i686; mhr-RU) Presto/2.9.184 Version/12.00
+267,293,29,[],Victoria,Opera/9.40.(X11; Linux x86_64; sq-ML) Presto/2.9.175 Version/11.00
+33,308,5,['none'],Queensland,Opera/9.40.(X11; Linux x86_64; wa-BE) Presto/2.9.176 Version/12.00
+24,660,3,['celiac'],Australian Capital Territory,Opera/9.41.(Windows 98; ar-DJ) Presto/2.9.169 Version/10.00
+310,417,33,[],Northern Territory,Opera/9.41.(X11; Linux i686; tl-PH) Presto/2.9.186 Version/11.00
+637,210,73,"['none', 'celiac']",Australian Capital Territory,Opera/9.42.(X11; Linux i686; fa-IR) Presto/2.9.165 Version/10.00
+967,593,112,['lactose intolerant'],Western Australia,Opera/9.43.(X11; Linux i686; as-IN) Presto/2.9.173 Version/12.00
+954,106,110,"['nut allergy', 'none']",South Australia,Opera/9.45.(Windows NT 4.0; ia-FR) Presto/2.9.160 Version/12.00
+466,479,52,"['nut allergy', 'lactose intolerant']",Northern Territory,Opera/9.45.(X11; Linux i686; aa-ER) Presto/2.9.165 Version/10.00
+676,100,78,[],Australian Capital Territory,Opera/9.45.(X11; Linux x86_64; gl-ES) Presto/2.9.187 Version/12.00
+529,415,59,['lactose intolerant'],Northern Territory,Opera/9.47.(Windows 98; gl-ES) Presto/2.9.167 Version/11.00
+868,263,101,[],Victoria,Opera/9.47.(Windows CE; lo-LA) Presto/2.9.185 Version/12.00
+657,291,75,['celiac'],Tasmania,Opera/9.48.(Windows NT 5.01; ia-FR) Presto/2.9.182 Version/10.00
+987,346,115,['vegan'],New South Wales,Opera/9.48.(X11; Linux i686; fur-IT) Presto/2.9.177 Version/11.00
+833,796,97,"['celiac', 'nut allergy']",Queensland,Opera/9.48.(X11; Linux i686; unm-US) Presto/2.9.187 Version/10.00
+195,772,22,[],Queensland,Opera/9.49.(Windows NT 5.0; kn-IN) Presto/2.9.170 Version/11.00
+339,4,38,"['none', 'vegan']",South Australia,Opera/9.49.(Windows NT 6.1; br-FR) Presto/2.9.171 Version/10.00
+117,192,13,['vegetarian'],Australian Capital Territory,Opera/9.49.(X11; Linux i686; quz-PE) Presto/2.9.180 Version/10.00
+824,332,96,"['celiac', 'vegan']",New South Wales,Opera/9.49.(X11; Linux x86_64; gv-GB) Presto/2.9.169 Version/11.00
+220,294,25,[],South Australia,Opera/9.50.(X11; Linux i686; wae-CH) Presto/2.9.188 Version/11.00
+217,94,25,[],Tasmania,Opera/9.51.(X11; Linux x86_64; fa-IR) Presto/2.9.167 Version/12.00
+968,617,112,[],Australian Capital Territory,Opera/9.53.(X11; Linux i686; ts-ZA) Presto/2.9.162 Version/10.00
+62,437,8,['nut allergy'],Queensland,Opera/9.55.(X11; Linux x86_64; mr-IN) Presto/2.9.180 Version/10.00
+373,958,42,[],Victoria,Opera/9.56.(X11; Linux i686; mr-IN) Presto/2.9.166 Version/11.00
+348,397,39,[],Northern Territory,Opera/9.58.(X11; Linux i686; an-ES) Presto/2.9.167 Version/12.00
+528,367,59,"['vegetarian', 'vegan']",New South Wales,Opera/9.58.(X11; Linux x86_64; el-CY) Presto/2.9.181 Version/11.00
+825,603,96,['celiac'],Western Australia,Opera/9.60.(Windows NT 6.0; brx-IN) Presto/2.9.178 Version/10.00
+315,799,33,['lactose intolerant'],South Australia,Opera/9.60.(X11; Linux i686; fil-PH) Presto/2.9.175 Version/11.00
+72,46,9,"['lactose intolerant', 'none']",Queensland,Opera/9.60.(X11; Linux x86_64; ro-RO) Presto/2.9.166 Version/12.00
+240,388,27,[],Northern Territory,Opera/9.61.(X11; Linux x86_64; ca-FR) Presto/2.9.175 Version/11.00
+177,828,20,['vegetarian'],New South Wales,Opera/9.64.(X11; Linux x86_64; ml-IN) Presto/2.9.180 Version/12.00
+950,726,109,['lactose intolerant'],Victoria,Opera/9.65.(Windows NT 5.1; sr-ME) Presto/2.9.170 Version/10.00
+363,793,41,[],Western Australia,Opera/9.66.(Windows 95; eu-ES) Presto/2.9.176 Version/12.00
+731,569,83,[],Western Australia,Opera/9.68.(Windows CE; ar-SY) Presto/2.9.190 Version/11.00
+508,382,57,[],Tasmania,Opera/9.68.(X11; Linux x86_64; pap-AN) Presto/2.9.160 Version/10.00
+494,510,55,[],Tasmania,Opera/9.70.(X11; Linux i686; my-MM) Presto/2.9.179 Version/11.00
+210,472,24,"['celiac', 'lactose intolerant']",Tasmania,Opera/9.70.(X11; Linux i686; wa-BE) Presto/2.9.174 Version/12.00
+525,264,59,[],New South Wales,Opera/9.70.(X11; Linux x86_64; ja-JP) Presto/2.9.176 Version/12.00
+2,434,1,"['nut allergy', 'nut allergy']",Western Australia,Opera/9.71.(Windows NT 5.01; da-DK) Presto/2.9.169 Version/11.00
+671,462,77,[],Australian Capital Territory,Opera/9.72.(Windows NT 6.0; lb-LU) Presto/2.9.162 Version/11.00
+484,243,54,['lactose intolerant'],Tasmania,Opera/9.73.(Windows NT 5.0; raj-IN) Presto/2.9.175 Version/10.00
+337,384,37,['celiac'],Victoria,Opera/9.76.(X11; Linux i686; kl-GL) Presto/2.9.168 Version/10.00
+996,457,116,[],South Australia,Opera/9.76.(X11; Linux i686; tr-TR) Presto/2.9.173 Version/10.00
+850,110,99,"['vegan', 'none']",Western Australia,Opera/9.81.(Windows 98; yo-NG) Presto/2.9.184 Version/12.00
+169,931,19,[],New South Wales,Opera/9.81.(Windows CE; the-NP) Presto/2.9.163 Version/11.00
+347,72,39,['lactose intolerant'],South Australia,Opera/9.81.(Windows NT 5.0; is-IS) Presto/2.9.188 Version/10.00
+202,722,23,[],Australian Capital Territory,Opera/9.81.(X11; Linux x86_64; hu-HU) Presto/2.9.170 Version/12.00
+350,712,39,['lactose intolerant'],South Australia,Opera/9.82.(Windows NT 6.1; sa-IN) Presto/2.9.180 Version/10.00
+507,175,57,[],Australian Capital Territory,Opera/9.84.(Windows NT 4.0; ss-ZA) Presto/2.9.160 Version/11.00
+535,635,60,"['vegetarian', 'vegetarian']",Australian Capital Territory,Opera/9.84.(Windows NT 6.0; hi-IN) Presto/2.9.188 Version/11.00
+437,916,49,[],Western Australia,Opera/9.84.(Windows NT 6.2; tg-TJ) Presto/2.9.174 Version/12.00
+777,699,89,"['vegan', 'none']",Victoria,Opera/9.85.(Windows NT 6.1; zu-ZA) Presto/2.9.184 Version/10.00
+762,557,87,[],Queensland,Opera/9.88.(Windows NT 5.01; bs-BA) Presto/2.9.168 Version/10.00
+106,115,12,"['celiac', 'vegetarian']",Western Australia,Opera/9.89.(X11; Linux x86_64; el-CY) Presto/2.9.175 Version/12.00
+646,930,73,"['vegan', 'celiac']",Tasmania,Opera/9.90.(Windows NT 4.0; brx-IN) Presto/2.9.184 Version/12.00
+39,748,5,['nut allergy'],Queensland,Opera/9.90.(X11; Linux i686; ro-RO) Presto/2.9.184 Version/12.00
+838,273,98,['celiac'],New South Wales,Opera/9.91.(X11; Linux i686; cv-RU) Presto/2.9.177 Version/12.00
+20,292,3,['none'],New South Wales,Opera/9.92.(Windows NT 5.0; gl-ES) Presto/2.9.169 Version/11.00
+680,363,78,[],Australian Capital Territory,Opera/9.93.(Windows NT 5.1; nl-NL) Presto/2.9.173 Version/11.00
+855,778,99,"['nut allergy', 'celiac']",Australian Capital Territory,Opera/9.93.(X11; Linux x86_64; en-PH) Presto/2.9.166 Version/12.00
+344,365,38,[],New South Wales,Opera/9.94.(Windows 95; sv-FI) Presto/2.9.179 Version/12.00
+34,347,5,['vegetarian'],Tasmania,Opera/9.94.(X11; Linux x86_64; wa-BE) Presto/2.9.177 Version/11.00
+945,262,109,[],Northern Territory,Opera/9.95.(Windows 95; bn-IN) Presto/2.9.176 Version/10.00
+487,616,54,"['nut allergy', 'vegetarian']",Queensland,Opera/9.96.(Windows NT 5.0; nr-ZA) Presto/2.9.188 Version/11.00
+716,350,82,[],Western Australia,Opera/9.96.(Windows NT 6.1; apn-IN) Presto/2.9.177 Version/11.00
+358,166,41,"['lactose intolerant', 'nut allergy']",Western Australia,Opera/9.97.(Windows NT 5.01; ca-ES) Presto/2.9.173 Version/11.00
+298,894,31,[],Northern Territory,Opera/9.97.(Windows NT 6.0; mhr-RU) Presto/2.9.184 Version/10.00
+468,556,52,[],Queensland,Opera/9.97.(X11; Linux x86_64; tg-TJ) Presto/2.9.164 Version/11.00
+151,827,17,"['nut allergy', 'vegan']",South Australia,Opera/9.98.(Windows NT 6.1; tg-TJ) Presto/2.9.165 Version/12.00
+423,228,48,"['lactose intolerant', 'nut allergy']",Tasmania,Opera/9.98.(X11; Linux x86_64; kk-KZ) Presto/2.9.166 Version/11.00
+399,946,45,['lactose intolerant'],Queensland,Opera/9.98.(X11; Linux x86_64; ps-AF) Presto/2.9.173 Version/11.00
+206,147,24,['vegetarian'],Australian Capital Territory,Opera/9.99.(Windows NT 4.0; hy-AM) Presto/2.9.172 Version/12.00
+989,549,115,[],Northern Territory,Opera/9.99.(X11; Linux i686; uz-UZ) Presto/2.9.168 Version/12.00
+952,33,110,"['none', 'lactose intolerant']",Australian Capital Territory,Opera/9.99.(X11; Linux x86_64; br-FR) Presto/2.9.181 Version/10.00
